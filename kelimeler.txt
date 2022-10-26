@@ -1,0 +1,5000 @@
+1 what ne
+2 get almak
+3 your sizin
+4 he o
+5 know bilmek
+6 go gitmek
+7 just sadece
+8 with ile
+9 but fakat
+10 so bu yüzden, yani, öyle
+11 all herşey
+12 there orada
+13 here burada, işte
+14 right sağ
+15 like sevmek
+16 if eğer
+17 was oldu
+18 can yapabilmek
+19 she o
+20 out dışarı
+21 about hakkında
+22 they onlar
+23 want istemek
+24 one bir
+25 say söylemek
+26 up yukarı
+27 him onu
+28 well iyi
+29 how nasıl
+30 think düşünmek
+31 now şimdi
+32 her ona
+33 come gelmek
+34 tell söylemek
+35 look bakmak
+36 take almak
+37 gonna olacak
+38 you sen
+39 make yapmak
+40 why neden
+41 see görmek
+42 need ihtiyaç, ihtiyaç duymak
+43 who kim
+44 good iyi
+45 back geri
+46 us bize
+47 as gibi, olarak
+48 time zaman
+49 his onun
+50 when ne zaman
+51 from itibaren, -den beri
+52 them onları
+53 would olur
+54 were idi
+55 an bir
+56 thing şey, nesne, obje
+57 our bizim
+58 where nerede
+59 then daha sonra
+60 or veya
+61 really gerçekten, hakikaten
+62 guy adam, herif
+63 mean anlamına gelmek
+64 had vardı
+65 to için
+66 some bazı
+67 it o
+68 way yol
+69 do yapmak
+70 thank teşekkür
+71 talk konuşma
+72 people insanlar
+73 because çünkü
+74 more daha
+75 sorry üzgünüm
+76 man adam
+77 work iş
+78 never asla
+79 by tarafından
+80 too çok
+81 down aşağı
+82 kill öldürmek
+83 should meli
+84 help yardım
+85 give vermek
+86 call aramak
+87 little küçük
+88 happen meydana gelmek, olmak
+89 only sadece, tek
+90 wait bekle
+91 find bulmak
+92 god tanrı
+93 sure elbette, emin
+94 off kapalı
+95 love aşk
+96 day gün
+97 over bitmiş
+98 keep tut
+99 maybe belki
+100 two iki
+101 still hâla, durgun, hareketsiz
+102 please lütfen
+103 even hatta
+104 any herhangi
+105 try denemek
+106 friend arkadaş
+107 stop dur
+108 feel hissetmek
+109 that şu, o
+110 we biz
+111 hear duymak
+112 and ve
+113 other diğer
+114 new yeni
+115 into içine
+116 thought düşünce
+117 before önce
+118 than göre
+119 ask sormak
+120 much çok
+121 yes evet
+122 these bunlar
+123 anything hiçbir şey, her şey
+124 use kullanmak, kullanım
+125 put koymak
+126 first ilk
+127 again tekrar
+128 great harika
+129 night gece
+130 very çok
+131 their onların
+132 last son
+133 year yıl
+134 life hayat
+135 nothing hiçbir şey değil
+136 after sonra
+137 believe inanmak
+138 leave ayrılmak
+139 those onlar, şunlar
+140 have sahip olmak
+141 name isim
+142 better daha iyi
+143 ever hiç
+144 move hareket
+145 long uzun
+146 place yer, yerleştirmek
+147 someone birisi
+148 start başlat
+149 ok tamam
+150 fine iyi, hoş, ceza kesmek
+151 everything her şey
+152 stay kalmak
+153 always her zaman
+154 girl kız
+155 mr bay
+156 father baba
+157 home ev
+158 of nın-nin
+159 be olmak
+160 away uzakta
+161 kind tür, çeşit
+162 kid çocuk
+163 me ben
+164 done tamam
+165 live canlı
+166 big büyük
+167 hell cehennem
+168 dead ölü
+169 die ölmek
+170 every her, bütün, her bir
+171 listen dinlemek
+172 which hangi
+173 lot çok
+174 might belki
+175 made yapılmış
+176 through vasıtasıyla
+177 around çevrede, etrafında
+178 head kafa
+179 bad kötü
+180 on üzerinde
+181 wrong yanlış
+182 nice güzel
+183 boy oğlan, erkek
+184 enough yeterli
+185 remember hatırlamak
+186 else başka
+187 son oğul, evlat, çocuk
+188 left sol, kalmak
+189 turn dönmek, çevirmek
+190 care önemsemek, bakım, ilgi
+191 own kendi
+192 show göstermek
+193 hand el
+194 run koşmak, çalıştırmak
+195 hi selam
+196 guess tahmin
+197 play oyna
+198 understand anlama
+199 baby bebek
+200 found kurmak, tesis etmek, bulunmuş
+201 three üç
+202 watch izlemek
+203 dad baba
+204 another diğer, başka
+205 hold ambar, tutma
+206 best en iyi
+207 actually aslında
+208 fight kavga
+209 course kurs
+210 world dünya
+211 city şehir
+212 for için
+213 old eski, yaşlı
+214 came geldi
+215 bring getirmek
+216 same aynı
+217 saw testere
+218 brother erkek kardeş
+219 mom anne
+220 hello merhaba
+221 mind akıl, önemsemek
+222 does yapar
+223 next sonraki
+224 meet tanışmak, buluşmak, karşılaşmak
+225 together birlikte
+226 end son
+227 king kral
+228 not değil
+229 yourself kendin
+230 miss özlemek
+231 mother anne
+232 went gitti
+233 already zaten, çoktan
+234 family aile
+235 job iş
+236 idea fikir
+237 real gerçek
+238 pretty tatlı, hoş, sevimli
+239 many çok
+240 everyone herkes
+241 money para
+242 wanna istiyorum
+243 men erkekler
+244 sound ses
+245 question soru
+246 both her ikisi de
+247 worry endişelenmek
+248 problem sorun
+249 whole bütün
+250 open açık
+251 word sözcük
+252 matter önemli olmak, madde, mesele
+253 anyone kimse
+254 while süre
+255 huh ha
+256 without olmadan
+257 room oda
+258 eye göz
+259 once bir zamanlar
+260 ready hazır
+261 hard zor
+262 woman kadın
+263 coming gelecek
+264 seen görüldü
+265 change değiştirmek, değişiklik
+266 today bugün
+267 hope umut
+268 seem görünmek
+269 trust güvenmek, güven
+270 happy mutlu
+271 yet henüz
+272 point puan
+273 minute dakika
+274 gotta -meli, -malı
+275 part bölüm
+276 most çoğu, en çok
+277 house ev
+278 second ikinci
+279 face yüz
+280 walk yürümek
+281 save kayıt etmek
+282 hour saat
+283 damn lanet olsun
+284 since dan beri
+285 lost kayıp
+286 check kontrol
+287 something bir şey, falan
+288 until a kadar
+289 stuff şey
+290 lord kral
+291 deal anlaşma, ilgilenmek
+292 lie yalan söylemek, yatmak, uzanmak,
+293 ago önce
+294 week hafta
+295 number numara
+296 whatever her neyse
+297 myself kendim
+298 exactly kesinlikle, tamamen
+299 hurt canını yakmak
+300 sir bayım
+301 tonight bu gece, bu akşam
+302 car araba
+303 few az
+304 date tarih, randevu, biriyle çıkmak
+305 sleep uyumak, uyku
+306 probably muhtemelen
+307 close kapat
+308 alone yalnız
+309 whoa çüş
+310 fuck kahretsin
+311 phone telefon
+312 safe güvenilir, güvende
+313 door kapı
+314 eat yemek
+315 true doğru
+316 person kişi
+317 doe dişi geyik
+318 fun eğlence
+319 speak konuşmak
+320 gun tabanca
+321 queen kraliçe
+322 cause sebep olmak, sebep
+323 stand ayakta durmak
+324 each her biri
+325 case durum
+326 break mola, mola vermek
+327 drink içmek, içki
+328 chance şans
+329 game oyun
+330 reason neden
+331 hit vurmak
+332 pick toplamak
+333 month ay
+334 gave verdi
+335 shit bok
+336 wow vay
+337 excuse bahane
+338 death ölüm
+339 rest dinlenme
+340 bit bit, gem, önemsiz
+341 morn sabah
+342 lady hanım
+343 cool havalı, serinlik
+344 wife kadın eş
+345 five beş
+346 figure rakam, şekil, yer almak, ifade etmek
+347 sit oturmak
+348 story hikaye
+349 answer cevap vermek
+350 alive canlı
+351 forget unutmak
+352 wish dilek, dilemek
+353 win kazanmak
+354 also ayrıca, aynı zamanda
+355 fire ateş
+356 such böyle
+357 crazy çılgın
+358 buy satın almak
+359 interest ilgi, ilgisini çekmek
+360 under altında
+361 side yan
+362 sister kız kardeş
+363 mine benim
+364 truth hakikat
+365 easy kolay
+366 shot atış, vurmak
+367 least en az
+368 read okumak
+369 far uzak
+370 party parti
+371 hate nefret
+372 soon yakında
+373 inside içeride
+374 pull çek
+375 clear temiz, açık, berrak
+376 anymore artık
+377 hang asmak
+378 tomorrow yarın
+379 follow takip et
+380 anyway neyse
+381 everybody herkes
+382 shut kapamak
+383 different farklı
+384 pay ödemek
+385 lose kaybetmek
+386 stupid aptal
+387 order sipariş
+388 school okul
+389 moment an
+390 daughter kız evlat
+391 business iş
+392 secret gizli
+393 no hayır
+394 book kitap
+395 against karşısında
+396 heart kalp
+397 build yapı, inşa etmek
+398 protect korumak
+399 war savaş
+400 late geç
+401 light ışık
+402 afraid korkmuş, kaygılı, üzgün
+403 blood kan
+404 send gönder
+405 four dört
+406 choice seçim
+407 either ya
+408 promise söz vermek
+409 learn öğrenmek
+410 water su
+411 wear giymek, giyinmek
+412 hot sıcak
+413 cut kesmek
+414 behind arkasında
+415 met tanışmak
+416 island ada
+417 power güç
+418 funny komik
+419 supposed sözde
+420 line hat
+421 sometimes bazen
+422 later sonra
+423 welcome hoşgeldiniz
+424 food gıda
+425 drive sürmek
+426 couple çift
+427 wall duvar
+428 somebody birisi
+429 almost neredeyse
+430 brought getirdi
+431 important önemli
+432 free beleş
+433 wedding düğün
+434 between arasında
+435 begin başlamak
+436 body vücut, gövde, ceset
+437 murder cinayet
+438 machine makine
+439 dude kanka
+440 dinner akşam yemegi
+441 lead öncülük etmek
+442 sign işaret
+443 though rağmen
+444 team takım
+445 land arazi
+446 fact gerçek
+447 return dönüş
+448 sex cinsiyet
+449 half yarım
+450 star yıldız
+451 dream rüya
+452 dog köpek
+453 office ofis
+454 able yapabilmek
+455 wonder merak etmek
+456 attack saldırı, saldırmak
+457 shoot film çekmek, ateş etmek
+458 arrow ok
+459 children çocuklar
+460 weird tuhaf
+461 pass geçmek, geçiş
+462 bitch kahpe, kaltak
+463 child çocuk
+464 fall inmek, düşmek, sonbahar
+465 drop düşürmek
+466 beautiful güzel
+467 outside dışarıda
+468 husband koca
+469 women kadınlar
+470 high yüksek
+471 steal çalmak
+472 rule kural
+473 six altı
+474 surprise sürpriz
+475 nobody kimse
+476 detective dedektif
+477 accept kabul etmek
+478 hide saklamak
+479 act davranmak
+480 young genç
+481 cop polis
+482 perhaps belki
+483 making yapımı
+484 okay tamam
+485 sent gönderilen
+486 doctor doktor
+487 bed yatak
+488 touch dokunma
+489 system sistem
+490 past geçmiş
+491 living yaşam
+492 offer teklif
+493 expect ummak, beklemek
+494 front ön
+495 trouble sorun
+496 clean temiz
+497 become olmak, haline gelmek
+498 honey bal
+499 burn yakmak, yanmak
+500 step adım
+501 wake uyanmak
+502 ass kıç, kalça
+503 black siyah
+504 state durum
+505 sweet tatlı
+506 train tren
+507 totally tamamen
+508 cover örtmek
+509 didnt hiç
+510 glad memnun
+511 quite epeyce
+512 perfect mükemmel
+513 throw atmak
+514 full tam, dolu
+515 police polis
+516 street sokak
+517 parent ebeveyn
+518 ring halka
+519 company şirket
+520 army ordu
+521 control kontrol
+522 bet bahis, iddiaya girmek
+523 air hava
+524 finish bitiş
+525 magic sihir, sihirbazlık
+526 weapon silah
+527 ahead ilerde, önde
+528 count saymak, sayı
+529 anybody kimse
+530 yeah evet
+531 running koşu
+532 town kasaba
+533 mistake hata
+534 decide karar vermek
+535 sense duyu
+536 catch yakalamak
+537 realize gerçekleştirmek, farkına varmak
+538 choose seçmek
+539 himself kendisi
+540 green yeşil
+541 built inşa edilmiş (build)
+542 relationship ilişki
+543 explain açıklamak
+544 luck şans
+545 rick burkulma, burkmak
+546 died vefat etti
+547 shall kaçınılmazlık belirtir
+548 ground zemin
+549 earth dünya
+550 finally en sonunda
+551 seriously ciddi anlamda
+552 sort çeşit
+553 none yok
+554 meant anlamına gelmek, kastedilen
+555 known bilinen
+556 kiss öpmek
+557 somewhere bir yerde
+558 track izlemek
+559 longer daha uzun
+560 future gelecek
+561 apartment Daire
+562 less daha az
+563 lucky şanslı
+564 worse daha kötüsü
+565 blow esmek, üflemek, darbe
+566 hair saç
+567 unless olmadıkça
+568 join katılmak
+569 boat tekne, sandalla gezmek
+570 list liste
+571 honor onur, şeref, onurlandırmak
+572 enjoy keyfini çıkarın
+573 this bu
+574 serious ciddi
+575 ship gemi
+576 destroy yıkmak
+577 along boyunca
+578 test sınamak, test etmek, test
+579 guard bekçi
+580 push itelemek, itmek
+581 key anahtar
+582 boss patron
+583 sick hasta
+584 agree aynı fikirde olmak, anlaşmak
+585 buddy arkadaş, ahbap
+586 suit takım elbise
+587 spend harcamak
+588 lock kilit
+589 beat dövmek
+590 cry ağla
+591 ride binmek
+592 fault arıza, hatası olmak
+593 broke kırdı
+594 fix düzeltmek
+595 science bilim
+596 fear korku
+597 worth değer
+598 smart akıllı
+599 human insan
+600 message mesaj, ileti
+601 white beyaz
+602 law yasa
+603 security güvenlik
+604 arm kol
+605 possible mümkün
+606 captain kaptan
+607 allow izin vermek
+608 special özel
+609 bye hoşçakal
+610 drug ilaç
+611 space alan, boş yer, mekan
+612 fair adil
+613 picture resim
+614 mad deli, kızgın, çılgın
+615 scar yara izi
+616 absolutely kesinlikle
+617 strong kuvvetli
+618 top üst
+619 write yazmak
+620 north kuzey
+621 share paylaşmak, pay
+622 dear sayın
+623 gift hediye
+624 smell koku
+625 ten on
+626 red kırmızı
+627 shh şşş
+628 deserve hak etmek
+629 dress elbise
+630 piece parça, eklemek
+631 joke şaka
+632 code kod
+633 small küçük
+634 till -e kadar
+635 dark karanlık
+636 charge şarj etmek
+637 record kayıt
+638 stick çubuk
+639 movie film
+640 swear küfür etmek, yemin etmek
+641 box kutu
+642 fast hızlı
+643 entire tüm
+644 consider düşünmek
+645 mrs evli kadın
+646 grow büyümek
+647 saved kaydedilmiş
+648 bag sırt çantası
+649 instead yerine
+650 except dışında
+651 girlfriend kız arkadaşı
+652 crime suç
+653 kick atmak
+654 brain beyin
+655 dangerous tehlikeli
+656 pain ağrı
+657 rock kaya
+658 million milyon
+659 single tek
+660 coffee kahve
+661 laugh gülmek, gülüş, sevinmek
+662 table masa, tablo
+663 group grup
+664 dance dans etmek, dans
+665 cell hücre
+666 lying yalan söyleme, uzanma
+667 card kart
+668 grace zarafet
+669 mess dağınıklık
+670 plane uçak
+671 teach öğretmek
+672 terrible korkunç
+673 sell satılmak, satmak
+674 road yol
+675 report rapor, bildirmek
+676 paper kâğıt
+677 prison hapis
+678 daddy baba
+679 voice ses
+680 mile mil
+681 screw vida
+682 cold soğuk
+683 fail başarısız olmak
+684 careful dikkatli
+685 suppose varsaymak
+686 hospital hastane
+687 correct doğru
+688 caught yakalandı
+689 partner ortak
+690 birthday doğum günü
+691 imagine hayal etmek
+692 warn uyarmak
+693 handle üstesinden gelmek
+694 across karşısında
+695 mark işaret
+696 decision karar
+697 lawyer avukat
+698 bomb bomba
+699 history tarih
+700 concern ilgilendirmek
+701 memory hafıza
+702 kingdom krallık
+703 forgive affetmek
+704 mouth ağız
+705 simple basit
+706 killer katil
+707 ball top
+708 appreciate takdir etmek, değeri artmak
+709 quick hızlı
+710 proud gururlu
+711 prove kanıtlamak
+712 reach ulaşmak
+713 arrest tutuklamak
+714 relax rahatlamak
+715 anywhere herhangi bir yer
+716 spent harcanmış
+717 leg bacak
+718 bear ayı, taşımak, dayanmak
+719 force güç
+720 slow yavaş
+721 forever sonsuza dek
+722 knock kapı çalmak
+723 feet fit, ayaklar
+724 enemy düşman
+725 information bilgi
+726 mention bahsetmek, söz etmek
+727 treat tedavi etmek
+728 respect saygı
+729 seat oturma yeri
+730 rather than -den ziyade
+731 camp kamp, kamp yapmak
+732 crap pislik, ıvır zıvır, çerçöp
+733 goodbye güle güle
+734 marry evlenmek
+735 owe borçlu olmak
+736 uncle amca dayı
+737 floor zemin
+738 upset üzgün
+739 straight düz
+740 station istasyon
+741 suck emmek
+742 definitely kesinlikle
+743 neither hiçbir, ikisinden hiçbiri
+744 class sınıf
+745 gate kapı
+746 cute şirin
+747 store mağaza
+748 fly uçmak
+749 assume üstlenmek, varsaymak
+750 pretend taklit, yapar gibi görünmek
+751 sword kılıç, güç, hükümdarlık
+752 grab kapmak
+753 cook pişirmek
+754 busy meşgul
+755 present sunmak, takdim etmek, hediye
+756 jimmy levye
+757 darling sevgili, canım
+758 cross karşıya geçmek, haç, çapraz
+759 angry kızgın
+760 cat kedi
+761 calm sakinleştirmek, sakinlik
+762 search aramak, araştırmak
+763 quiet sessiz
+764 target hedef
+765 tree ağaç
+766 peace barış
+767 bank banka
+768 survive hayatta kalmak
+769 thousand bin
+770 belong ait olmak
+771 eight sekiz
+772 roll rulo
+773 idiot salak
+774 trick hile
+775 ice buz
+776 professor profesör
+777 copy kopya, kopyalamak
+778 doubt şüphe
+779 blame suçlamak
+780 boyfriend erkek arkadaş
+781 agent ajan
+782 hop sekmek, zıplamak
+783 awesome harika
+784 worst en kötü
+785 field alan
+786 hunt avlanmak, avlamak, av
+787 short kısa
+788 remind hatırlatmak
+789 pack paketlemek, ambalajlamak, eşyaları toplamak, bavul hazırlamak
+790 spot leke, nokta, fark etmek
+791 computer bilgisayar
+792 bastard piç
+793 freak ucube
+794 drunk sarhoş
+795 chase kovalamak
+796 favor iyilik
+797 broken kırık, arızalı
+798 country ülke
+799 carry taşımak
+800 dragon ejderha
+801 fool aptal
+802 hurry acele etmek, telaş
+803 fill doldurmak
+804 pant solumak
+805 ruin harabe
+806 client müşteri
+807 middle orta
+808 club kulüp
+809 mayor belediye başkanı
+810 camera kamera
+811 service hizmet, hizmet etmek
+812 government hükümet
+813 poor yoksul, zavallı
+814 sun güneş
+815 born doğmuş, doğan
+816 admit itiraf etmek
+817 breath nefes, soluk
+818 early erken
+819 certain belli
+820 monster canavar
+821 completely büsbütün, tamamen
+822 forward ileri, ileriye doğru
+823 personal kişisel
+824 paid ücretli
+825 evidence kanıt
+826 pregnant hamile
+827 favorite favori
+828 trip gezi
+829 jump sıçramak, zıplamak, atlamak
+830 bathroom banyo
+831 situation durum
+832 visit ziyaret etmek
+833 yep evet
+834 wonderful müthiş, harika
+835 universe evren
+836 college kolej
+837 clearly açıkça
+838 yesterday dün
+839 age yaş
+840 travel seyahat etmek, seyahat
+841 judge yargılamak, hakim
+842 position pozisyon, konum, durum
+843 suggest önermek
+844 experience deneyim
+845 wont alışkanlık, alışmak
+846 contact iletişim kurmak, iletişim
+847 officer memur, subay
+848 music müzik
+849 horse at
+850 board yazı tahtası, binmek
+851 sad üzgün
+852 danger tehlike
+853 nearly neredeyse
+854 summer yaz
+855 fish balık
+856 song şarkı
+857 sire majesteleri, baba
+858 design tasarlamak, tasarım
+859 waste israf etmek, israf
+860 obviously belli ki, açıkçası, besbelli
+861 previously önceden
+862 gentlemen beyler
+863 accident kaza
+864 original orijinal, özgün
+865 marriage evlilik, evlenme
+866 bullet mermi, kurşun
+867 suffer acı çekmek
+868 third üçüncü
+869 hall salon
+870 honest dürüst
+871 sweetie tatlım, manita, sevgilim
+872 attention dikkat, özen
+873 support desteklemek, destek
+874 remain geriye kalmak, artmak
+875 christmas noel
+876 quit bırakmak, vazgeçmek
+877 willing istekli
+878 blue mavi
+879 master efendi, usta
+880 whoever her kim
+881 deep derin
+882 window pencere
+883 conversation konuşma, sohbet
+884 walker yürüteç, yaya
+885 certainly kesinlikle
+886 court mahkeme
+887 beer bira
+888 draw çizmek
+889 escape kaçmak, firar
+890 lunch öğle yemeği
+891 hero kahraman
+892 hat şapka
+893 level seviye
+894 serve hizmet etmek
+895 focus odak, odaklanmak
+896 plan planlamak, tasarlamak, plan
+897 soul ruh
+898 sing şarkı söylemek, söylemek
+899 whose kimin
+900 scare korkmak
+901 round yuvarlak, dönmek
+902 apparently görünüşe göre
+903 gotten kazanılmış
+904 plus artı
+905 wound yara
+906 tough sert
+907 block blok
+908 lab laboratuvar
+909 near yakın
+910 bother canını sıkmak
+911 betray ihanet etmek
+912 victim kurban
+913 church kilise
+914 beg dilenmek, yalvarmak
+915 bird kuş
+916 wood odun
+917 fell düşmek, mahvetmek
+918 poison zehir
+919 upon üzerine
+920 during sırasında
+921 threat tehdit
+922 bigger daha büyük
+923 file dosya, kayda geçirmek
+924 taste tatmak, tat, lezzet
+925 fit uymak, uygun
+926 gold altın
+927 stuck sıkışmış
+928 paint boyamak, boya
+929 bunch demet, salkım
+930 hungry aç
+931 within içinde
+932 signal işaret
+933 battle savaş, savaşmak
+934 innocent masum
+935 letter mektup
+936 lovely güzel, hoş
+937 loved sevgili, aşık
+938 appear görünmek
+939 finger parmak
+940 feed beslemek, beslenmek
+941 crash çarpmak, çarpışmak, kaza
+942 kidding dalga geçmek
+943 holy kutsal
+944 wine şarap
+945 princess prenses
+946 radio radyo
+947 ear kulak
+948 difference fark, ayrım
+949 access erişim, erişmek
+950 justice adalet
+951 weekend hafta sonu
+952 faith inanç
+953 bill fatura
+954 chicken tavuk
+955 scream çığlık atmak, çığlık
+956 hole delik, delik açmak
+957 shoe ayakkabı
+958 criminal suçlu, adli
+959 smile gülümsemek
+960 pleasure zevk, haz
+961 glass bardak
+962 nope hayır
+963 mission misyon
+964 action eylem, davranış
+965 apologize özür dilemek
+966 whether -mek veya -memek
+967 tie kravat
+968 south güney
+969 commander komutan
+970 account hesap, hesap vermek
+971 theory teori
+972 scene sahne, manzara, faaliyet alanı
+973 wind rüzgar
+974 truck kamyon
+975 talk to biriyle konuşmak
+976 taught öğretilen
+977 fat şişman
+978 ticket bilet
+979 cost maliyet
+980 huge kocaman
+981 bloody kanlı, kanatmak
+982 let izin vermek
+983 go to gitmek
+984 claim iddia etmek, iddia
+985 shame utanç
+986 detail detay, ayrıntılı anlatmak
+987 discuss tartışmak
+988 rid kurtulmuş
+989 dollar dolar
+990 unit birim
+991 flight uçuş
+992 naked çıplak
+993 extra ekstra
+994 truly gerçekten
+995 private özel
+996 cup fincan
+997 nine dokuz
+998 sea deniz
+999 address adres
+1000 price fiyat
+1001 note not
+1002 exist var olmak
+1003 aunt teyze, hala
+1004 math matematik
+1005 prince prens
+1006 suspect şüpheli
+1007 sake uğruna
+1008 beach plaj, kumsala çekmek
+1009 location yer
+1010 common yaygın
+1011 evil kötülük
+1012 leader önder
+1013 prisoner mahkum
+1014 project proje
+1015 dirty kirli
+1016 although olmasına rağmen
+1017 smoke sigara içmek
+1018 usually genelde
+1019 guilty suçlu
+1020 type tip
+1021 besides dışında, ayrıca
+1022 threaten tehdit etmek
+1023 difficult zor
+1024 ridiculous gülünç
+1025 trial deneme
+1026 tape kaset, kasede almak
+1027 issue konu
+1028 research araştırma
+1029 public halk, umumi, kamu
+1030 castle kale, şato, hisar
+1031 student öğrenci
+1032 area alan
+1033 advice tavsiye
+1034 wrote yazdı
+1035 stone taş
+1036 wash yıkama
+1037 west batı
+1038 department bölüm
+1039 earlier daha erken
+1040 member üye
+1041 text metin
+1042 press basın
+1043 switch şalter, değiştirmek
+1044 soldier asker
+1045 ghost hayalet
+1046 mystery gizem
+1047 piss işemek
+1048 apart ayrı
+1049 mountain dağ
+1050 bro kanka
+1051 lay yatırmak
+1052 twice iki defa
+1053 everywhere her yerde
+1054 tea çay
+1055 right now hemen şimdi, derhal
+1056 supply arz
+1057 trade ticaret
+1058 guest konuk
+1059 fake sahte
+1060 bleed kanamak
+1061 notice farkına varmak
+1062 art sanat
+1063 buck dolar, sıçramak
+1064 herself kendini
+1065 especially özellikle
+1066 command komuta
+1067 trap tuzak
+1068 final nihai
+1069 rain yağmur
+1070 beyond ötesinde
+1071 saving tasarruf
+1072 patient hasta
+1073 breathe nefes almak
+1074 strange garip
+1075 neck boyun
+1076 iron demir
+1077 impossible imkansız
+1078 snow kar
+1079 sitting oturma
+1080 chair sandalye
+1081 opportunity fırsat
+1082 my benim
+1083 develop geliştirmek
+1084 somehow bir şekilde
+1085 chuck atmak
+1086 american amerikan
+1087 spy casus
+1088 come to gel
+1089 indeed aslında
+1090 dumb aptal, sessiz
+1091 photo fotoğraf
+1092 shirt gömlek
+1093 warm ilık, hafif sıcak
+1094 rich zengin
+1095 enter girmek, katılmak
+1096 planet gezegen
+1097 egg yumurta
+1098 credit kredi
+1099 plant bitki
+1100 weak zayıf
+1101 option seçenek
+1102 shower duş
+1103 scientist bilim insanı
+1104 come on haydi
+1105 get to e gelmek, noktasına gelmek
+1106 hotel otel
+1107 dig kazmak
+1108 double çift
+1109 greatest en büyük
+1110 cake kek
+1111 cheer tezahürat
+1112 convince ikna etmek
+1113 monkey maymun
+1114 vote oy
+1115 base baz, dayandırmak
+1116 english ingilizce
+1117 page sayfa
+1118 nose burun
+1119 quickly hızlı bir şekilde
+1120 abandon terketmek
+1121 disappear kaybolmak
+1122 odd garip
+1123 get it anla
+1124 bury gömmek
+1125 strength kuvvet
+1126 excellent mükemmel, enfes
+1127 receive teslim almak
+1128 map harita
+1129 path yol, yörünge
+1130 sight görme
+1131 cloth bez
+1132 barely zar zor
+1133 bottom alt, dip, temeline inmek
+1134 plenty bol
+1135 easier daha kolay
+1136 empty boş, boşaltmak
+1137 frank dürüst
+1138 warrior savaşçı
+1139 require gerekmek, gerektirmek, gerektirir, icap etmek
+1140 button düğme
+1141 hook kanca
+1142 mommy anne
+1143 themselves kendilerini
+1144 rose gül
+1145 destiny kader
+1146 complete tamamlamak, tam, eksiksiz
+1147 super süper
+1148 avoid önlemek, kaçınmak
+1149 bless kutsamak
+1150 possibly muhtemelen, belki
+1151 foot ayak
+1152 dare kafa tutmak, cesaret
+1153 often sıklıkla
+1154 bus otobüs
+1155 fate kader
+1156 study ders çalışma
+1157 animal hayvan
+1158 fan yelpaze
+1159 embarrass utandırmak
+1160 settle yerleşmek
+1161 tool aracı
+1162 farm çiftlik
+1163 pray dua etmek
+1164 liar yalancı
+1165 purpose amaç
+1166 otherwise aksi takdirde
+1167 folk halk
+1168 amazing inanılmaz, şaşırtıcı
+1169 east doğu
+1170 threw attı
+1171 safety emniyet
+1172 email e-posta
+1173 skin cilt
+1174 corner köşe
+1175 continue devam et
+1176 tear gözyaşı
+1177 knife bıçak
+1178 mask maskelemek
+1179 bridge köprü
+1180 raise yükseltmek
+1181 grant hibe
+1182 insane deli
+1183 rat sıçan
+1184 honestly dürüstçe
+1185 gas gaz
+1186 sky gökyüzü
+1187 powerful güçlü
+1188 cash nakit
+1189 term terim
+1190 deliver teslim etmek
+1191 breakfast kahvaltı
+1192 ourselves kendimizi
+1193 set ayarlamak
+1194 split bölünmüş
+1195 fought kavga etti
+1196 shadow gölge
+1197 throne taht
+1198 witness tanık olmak, şahit olmak
+1199 prepare hazırlamak
+1200 flower çiçek
+1201 yell bağırma
+1202 bone kemik
+1203 toward karşı, doğru
+1204 further daha ileri
+1205 bottle şişe, şişelemek
+1206 regret pişmanlık
+1207 closer daha yakın, sonlandırıcı
+1208 above yukarıda
+1209 asleep uykuda, tembel
+1210 interview röportaj, söyleşi yapmak
+1211 mate dostum
+1212 career kariyer
+1213 throat boğaz
+1214 bite ısırmak
+1215 mama anne
+1216 load yük, yüklemek
+1217 comfortable rahat
+1218 circle daire
+1219 fir köknar
+1220 nut fındık
+1221 emergency acil durum
+1222 hood kapüşon
+1223 band bant, şerit
+1224 president devlet başkanı
+1225 tight sıkı
+1226 named adlı
+1227 held kavradı
+1228 duty görev
+1229 chinese çince
+1230 teacher öğretmen
+1231 fresh taze
+1232 van kamyonet
+1233 match eşleşme
+1234 pocket cep
+1235 speech konuşma
+1236 defend savunmak
+1237 prefer tercih etmek
+1238 older daha eski
+1239 sold satıldı
+1240 afternoon öğleden sonra
+1241 low düşük
+1242 jealous kıskanç
+1243 blind kör
+1244 pressure basınç
+1245 gather toplamak
+1246 sail yelken
+1247 add eklemek
+1248 spread yaymak, yayılmak
+1249 kitchen mutfak
+1250 event etkinlik
+1251 strike vuruş
+1252 stranger yabancı
+1253 giant dev
+1254 storm fırtına
+1255 roof çatı
+1256 process süreç
+1257 root kök, köken
+1258 itself kendisi
+1259 color renk
+1260 nowhere hiçbir yerde
+1261 bell çan, zil, böğürmek
+1262 tiny çok küçük
+1263 russian rusça, rus
+1264 restaurant restoran
+1265 sweetheart birtanem
+1266 invite davet et
+1267 loose gevşek
+1268 arrive varmak
+1269 slept uyudu
+1270 connect bağlamak
+1271 bedroom yatak odası
+1272 spoke konuştu
+1273 necessary gerekli
+1274 device cihaz
+1275 cousin kuzen
+1276 moon ay
+1277 flame alev
+1278 large büyük
+1279 tower kule
+1280 cream krem
+1281 however ancak
+1282 hire kiralama
+1283 brilliant parlak
+1284 savior kurtarıcı
+1285 skill beceri
+1286 nervous sinir, gergin, sinirli
+1287 league lig
+1288 harm zarar
+1289 defeat yenilgi
+1290 creat kaynak oluşturmak
+1291 crack çatlak
+1292 dump çöplük, çöp dökmek
+1293 brave cesur
+1294 sawyer bıçkıcı
+1295 harder daha güçlü
+1296 earn kazanmak
+1297 seek aramak
+1298 earl kont
+1299 medical tıbbi
+1300 slip kayma
+1301 sacrifice kurban
+1302 awful berbat
+1303 shoulder omuz
+1304 knee diz
+1305 punch yumruk
+1306 desk sıra
+1307 ain't değil
+1308 spirit ruh
+1309 size boyut
+1310 chain zincir
+1311 asshole kıç deliği
+1312 attorney avukat
+1313 due nedeniyle
+1314 likely muhtemelen
+1315 defense savunma
+1316 river nehir
+1317 billion milyar
+1318 jerk sarsmak, ahmak
+1319 plate tabak
+1320 responsible sorumluluk sahibi
+1321 subject konu, özne
+1322 crew mürettebat
+1323 race yarış
+1324 attempt girişimde bulunmak
+1325 genius deha
+1326 milk süt
+1327 tip ipucu, bahşiş
+1328 depend bağlı olmak, güvenmek
+1329 operation operasyon
+1330 feelings gönül, his dünyası
+1331 onto üstüne
+1332 dry kuru
+1333 aware farkında olmak
+1334 revenge intikam
+1335 condition şart, koşul
+1336 major asıl, büyük, başlıca
+1337 roommate oda arkadaşı
+1338 lower alt, düşürmek
+1339 lesson ders
+1340 sooner er
+1341 familiar tanıdık
+1342 secure güvenli
+1343 servant hizmetçi
+1344 result sonuç
+1345 rome roma
+1346 clever zeki
+1347 jail hapis
+1348 weather hava
+1349 march mart
+1350 horrible korkunç
+1351 damage hasar
+1352 practice uygulama
+1353 aye Evet, kabul oyu
+1354 whenever her ne zaman
+1355 cab taksi
+1356 community topluluk
+1357 cheat hile
+1358 military askeri
+1359 lift asansör, kaldırmak
+1360 climb tırmanış
+1361 teeth diş
+1362 fancy fantezi
+1363 bust bozulmak, tutuklamak, iflas etmek
+1364 make it bunu yapmak
+1365 bean fasulye
+1366 loud yüksek sesle
+1367 cave mağara
+1368 afford parası yetmek, gücü yetmek
+1369 request istek
+1370 obvious açık
+1371 social sosyal
+1372 come back dönmek
+1373 backup yedek, yedeğini almak
+1374 recognize tanımak
+1375 eventually sonuçta
+1376 nail tırnak
+1377 lately son zamanlarda
+1378 faster daha hızlı
+1379 post postalamak, ileti
+1380 data veri
+1381 apology özür
+1382 french fransızca
+1383 whore fahişe
+1384 pill hap
+1385 murderer katil
+1386 pie turta
+1387 comic komik
+1388 spare yedek
+1389 knowledge bilgi
+1390 heal iyileşmek
+1391 boring sıkıcı
+1392 tire tekerlek
+1393 protection koruma
+1394 village köy
+1395 cheese peynir
+1396 wild vahşi
+1397 romantic romantik
+1398 firm firma
+1399 grew büyüdü
+1400 general genel
+1401 center merkez
+1402 borrow ödünç almak
+1403 create yaratmak, yapmak, tasarlamak, üretmek
+1404 tech teknoloji
+1405 challenge meydan okuma
+1406 sandwich sandviç
+1407 effect etki, tesir
+1408 trigger tetik
+1409 proof kanıt
+1410 famous meşhur
+1411 bow yay, başla selamlama
+1412 traitor hain
+1413 responsibility sorumluluk
+1414 language dil
+1415 main ana
+1416 grand büyük
+1417 shop dükkan
+1418 site yer
+1419 release salıvermek, salmak, serbest bırakmak
+1420 total toplam
+1421 silly saçma
+1422 pig domuz
+1423 heat ısıtmak, sıcaklık, ısı
+1424 sneak gizlice, sinsice
+1425 shock şok
+1426 regular düzenli
+1427 score puan, skor
+1428 simply basitçe
+1429 duck ördek
+1430 perfectly mükemmel bir şekilde
+1431 unfortunately ne yazık ki
+1432 clock saat
+1433 doc doktor
+1434 spell harf harf kodlamak
+1435 disappoint hayal kırıklığına uğratmak
+1436 used to alışık, alışkın
+1437 toy oyuncak
+1438 mercy merhamet
+1439 ate yemek( past hali )
+1440 prime asal
+1441 recently son günlerde
+1442 evening akşam
+1443 source kaynak
+1444 authority yetki
+1445 deny reddetmek
+1446 council konsey
+1447 connection bağ
+1448 engineer mühendis
+1449 clothe giydirmek
+1450 grade sınıf
+1451 amount miktar
+1452 scary korkunç
+1453 rise yükselmek
+1454 rescue kurtarmak
+1455 don giymek
+1456 married evli
+1457 shield kalkan
+1458 debt borç
+1459 nah hayır
+1460 slap tokat
+1461 local yerel
+1462 bullshit saçmalık
+1463 birth doğum, doğurma
+1464 basically temel olarak
+1465 approach yaklaşım, yaklaşmak
+1466 chamber bölme
+1467 view görünüm
+1468 intend niyet etmek
+1469 prize ödül
+1470 hug sarılmak
+1471 havent sığınak
+1472 former eski
+1473 seal mühür
+1474 cure çare
+1475 heaven cennet
+1476 rough kaba
+1477 couch kanepe
+1478 suddenly aniden
+1479 sin günah
+1480 value değer, kıymet
+1481 dozen düzine
+1482 congratulation tebrik
+1483 look at bakmak
+1484 take it varsaymak, kabul etmek
+1485 row kürek çekmek
+1486 neighbor komşu
+1487 bath banyo, yıkanmak
+1488 toast kızarmış ekmek
+1489 journey seyahat
+1490 investigation soruşturma
+1491 trail iz
+1492 heavy ağır
+1493 mix karıştırmak
+1494 crown taç
+1495 string sicim, dizi, kandırmak
+1496 gang çete, işbirliği yapmak
+1497 swing salıncak
+1498 hidden gizli
+1499 wave dalga
+1500 pal ahbap
+1501 awake uyanık, uyanmak
+1502 impressive etkileyici
+1503 bowl kase, yuvarlamak
+1504 chick civciv
+1505 experiment deney
+1506 discover keşfetmek
+1507 identity kimlik
+1508 agreement anlaşma
+1509 chief şef
+1510 devil şeytan
+1511 speed hız
+1512 fella yakın arkadaş, delikanlı
+1513 suicide intihar
+1514 nature doğa
+1515 aside bir kenara
+1516 grown yetişkin
+1517 incredible inanılmaz
+1518 sport spor
+1519 loss kayıp
+1520 zero sıfır
+1521 energy enerji
+1522 tunnel tünel
+1523 pair çift
+1524 saturday cumartesi
+1525 became oldu, haline geldi
+1526 confess itiraf etmek
+1527 wise bilge
+1528 driving sürme
+1529 player oyuncu
+1530 torture işkence
+1531 pyramid piramit
+1532 physic ilaç vermek, tedavi etmek, tıp
+1533 jungle orman
+1534 surely elbette
+1535 someday birgün
+1536 fed besledi
+1537 stronger daha güçlü
+1538 meat et
+1539 exact tam, kesin
+1540 limit sınır
+1541 crush ezmek
+1542 demand talep
+1543 demon iblis
+1544 impress etkilemek
+1545 bug hata, dinleme cihazı
+1546 network ağ
+1547 goddamn lanet olası
+1548 coat ceket
+1549 tongue dil
+1550 wheel tekerlek
+1551 terrorist terörist
+1552 solve çözmek
+1553 capable yetenekli
+1554 unravel çözmek
+1555 university üniversite
+1556 get out defol
+1557 slave köle
+1558 funeral cenaze
+1559 expansion genişleme
+1560 nurse hemşire
+1561 flag bayrak
+1562 solution çözüm
+1563 schedule program
+1564 precious değerli
+1565 interrupt kesmek
+1566 exit çıkış
+1567 surgery cerrahlık
+1568 manage yönetmek
+1569 physical fiziksel
+1570 vow yemin etmek, ant içmek, yemin
+1571 task görev
+1572 complicated karmaşık
+1573 shake sallamak
+1574 pit çukur
+1575 actual gerçek
+1576 weight ağırlık
+1577 gosh allah allah
+1578 sexy seksi
+1579 kinda sayılır, gibi
+1580 route rota
+1581 direction yön
+1582 square meydan
+1583 rate oran
+1584 coin madeni para
+1585 driver sürücü
+1586 friday cuma
+1587 opinion görüş, fikir
+1588 curious meraklı
+1589 mostly çoğunlukla
+1590 natural doğal
+1591 coward ödlek, korkak
+1592 sale satış
+1593 punish cezalandırmak
+1594 property özellik, mal mülk, emlak
+1595 assistant yardımcı, asistan
+1596 glades ormanlarını
+1597 friendship dostluk
+1598 shift vardiya
+1599 legal yasal
+1600 tall uzun boylu
+1601 winter kış
+1602 rush acele
+1603 noise gürültü, ses
+1604 robin narbülbülü
+1605 will niyet
+1606 anger öfke, kızdırmak
+1607 sentence cümle, ceza vermek
+1608 national ulusal
+1609 mum anne
+1610 sync senkronize etmek
+1611 drown bastırmak
+1612 creature yaratık
+1613 chest sandık
+1614 alert alarm, uyarmak
+1615 argue tartışmak
+1616 disease hastalık
+1617 trace iz sürmek
+1618 custody gözaltı
+1619 reward ödül
+1620 violence şiddet
+1621 forgotten unutulmuş
+1622 drool saçmalamak
+1623 divorce boşanma
+1624 annoy rahatsız etmek
+1625 celebrate kutlamak
+1626 rent kira
+1627 grave mezar
+1628 locate yerleştirmek
+1629 meal yemek
+1630 version versiyon
+1631 cancel iptal etmek
+1632 virus virüs
+1633 get in binmek, içeriye girmek
+1634 do with ile yapmak
+1635 contract sözleşme
+1636 stolen çalıntı
+1637 grateful minnettar
+1638 immediately hemen
+1639 airport havaalanı
+1640 dense yoğun
+1641 darkness karanlık
+1642 float şamandıra
+1643 central merkezi
+1644 ordinary sıradan
+1645 host evsahibi
+1646 wire tel
+1647 sat oturdu
+1648 repeat tekrar et
+1649 dawn şafak
+1650 crowd kalabalık
+1651 character karakter
+1652 texas teksas
+1653 loser ezik
+1654 fantastic fantastik
+1655 be in içeride olmak
+1656 tag etiket
+1657 ignore aldırmamak
+1658 collect toplamak
+1659 juice meyve suyu
+1660 pee işemek
+1661 dealer satıcı
+1662 usual olağan
+1663 progress ilerleme
+1664 channel kanal
+1665 cage kafes
+1666 adult yetişkin
+1667 remove kaldır
+1668 survived hayatta
+1669 nor ne de
+1670 pool havuz
+1671 insult hakaret
+1672 whom kime
+1673 goal hedef
+1674 disgust iğrenme
+1675 package paket
+1676 talent yetenek
+1677 toilet tuvalet
+1678 ugly çirkin
+1679 medicine ilaç
+1680 affair mesele, şey
+1681 forest orman
+1682 official resmi
+1683 football futbol
+1684 brown kahverengi
+1685 charm çekicilik
+1686 radiation radyasyon
+1687 among arasında
+1688 provide sağlamak
+1689 strip şerit, soymak, üstünü çıkarmak
+1690 of course elbette
+1691 gut bağırsak
+1692 example örnek
+1693 stock stok
+1694 chocolate çikolata
+1695 loyal sadık
+1696 season mevsim
+1697 autotrophs ototraflar
+1698 bride gelin
+1699 mood ruh hali
+1700 health sağlık
+1701 candy şeker
+1702 twin ikiz
+1703 governor vali
+1704 creepy ürpertici
+1705 missy küçük hanım
+1706 bright parlak
+1707 distract dikkatini dağıtmak
+1708 loyalty bağlılık
+1709 spring bahar
+1710 wing kanat
+1711 expensive pahalı
+1712 detect belirlemek
+1713 wherever nerede olursa
+1714 wet ıslak
+1715 higher daha yüksek
+1716 false yanlış
+1717 rude kaba
+1718 lieutenant teğmen
+1719 stood durdu
+1720 current şimdiki
+1721 violent şiddet eğilimli
+1722 positive pozitif
+1723 commit işlemek
+1724 fund fon, sermaye
+1725 christian hristiyan
+1726 literally resmen
+1727 assure garanti etmek
+1728 several birkaç
+1729 elevator asansör
+1730 invent icat etmek
+1731 statement beyan
+1732 stair basamak
+1733 beauty güzellik
+1734 professional profesyonel
+1735 fourth dördüncü
+1736 robbery soygun
+1737 butt popo
+1738 shopping alışveriş yapmak
+1739 offense suç
+1740 accord uymak
+1741 mail posta
+1742 launch başlatmak
+1743 angel melek
+1744 holiday tatil
+1745 ocean okyanus
+1746 complain şikayet
+1747 fence çit, kaçamaklı konuşmak
+1748 noticed fark
+1749 emotional duygusal, dokunaklı
+1750 gross brüt
+1751 soft yumuşak
+1752 trash çöp
+1753 reality gerçeklik
+1754 healthy sağlıklı
+1755 mental zihinsel
+1756 specific özel
+1757 technically teknik olarak
+1758 awkward beceriksiz
+1759 babe bebeğim
+1760 fruit meyve
+1761 proper uygun, düzgün
+1762 edge kenar
+1763 shape şekil
+1764 miracle mucize
+1765 fuel yakıt
+1766 yellow sarı, sararmak
+1767 stare dik dik bakmak
+1768 print baskı
+1769 terrific müthiş
+1770 patch yama
+1771 jacket ceket
+1772 confirm onaylamak
+1773 insist ısrar etmek
+1774 resource kaynak
+1775 pet evcil hayvan
+1776 contain içermek, kapsamak
+1777 architect mimar
+1778 stage sahne
+1779 respond cevap vermek
+1780 ought gerektiğini
+1781 drag sürüklemek
+1782 entirely baştan sona
+1783 understood anladım, anlaşıldı
+1784 cancer kanser
+1785 lonely yalnız
+1786 quarter çeyrek
+1787 comfort konfor
+1788 surveillance gözetim, gözetleme, gözaltı
+1789 perform yapmak, uygulamak, yerine getirmek
+1790 battery pil, batarya
+1791 vault tonoz
+1792 classic klasik
+1793 belt kemer
+1794 insurance sigorta
+1795 alright Tamam
+1796 hatch kapak
+1797 execute gerçekleştirmek, yerine getirmek, idam etmek
+1798 bread ekmek
+1799 lover sevgili
+1800 distance mesafe, uzaklık
+1801 grandmother anneanne
+1802 traffic trafik
+1803 available mevcut, uygun
+1804 advance ilerlemek, terfi ettirmek
+1805 soup çorba
+1806 commercial ticari
+1807 alien uzaylı
+1808 steel çelik
+1809 amen amin
+1810 laundry çamaşır
+1811 sunday pazar
+1812 expert uzman
+1813 silence sessizlik
+1814 ancient eski, antik
+1815 lip dudak
+1816 hail selamlamak
+1817 percent yüzde
+1818 freedom özgürlük
+1819 propose teklif etmek, önermek
+1820 chosen seçilmiş
+1821 potential potansiyel
+1822 tail kuyruk
+1823 winner kazanan
+1824 cast oyuncular
+1825 grandpa dede
+1826 useful işe yarar
+1827 boom gümlemek, patlama sesi
+1828 heir mirasçı
+1829 refuse reddetmek
+1830 technology teknoloji
+1831 personally şahsen
+1832 intelligence zeka
+1833 unbelievable inanılmaz
+1834 recall hatırlama
+1835 male erkek
+1836 blade bıçak ağzı, kılıç
+1837 spoken konuşulmuş
+1838 vision vizyon
+1839 assault saldırmak
+1840 homicide cinayet
+1841 sergeant çavuş
+1842 standard standart
+1843 plea savunma
+1844 desperate umutsuz
+1845 polic polis istasyonu
+1846 laser lazer
+1847 puzzle bulmaca
+1848 manager yönetici
+1849 handsome yakışıklı
+1850 freeze donmak
+1851 victory zafer
+1852 nightmare kabus, endişe, kaygı
+1853 sexual cinsel
+1854 apply uygulamak
+1855 lack eksiklik
+1856 solid katı
+1857 chat sohbet
+1858 merry şen
+1859 behavior davranış
+1860 extremely son derece
+1861 advantage avantaj
+1862 facility tesis
+1863 guilt suç
+1864 frighten korkutmak
+1865 zone bölge
+1866 china çin
+1867 dale vadi
+1868 affect etkilemek
+1869 surrender teslim
+1870 stress stres
+1871 desire arzu etmek
+1872 possibility olasılık
+1873 compare karşılaştırmak
+1874 whisper fısıltı
+1875 flip fiske
+1876 doll oyuncak bebek
+1877 baseball beyzbol
+1878 panic panik
+1879 bound ciltli, bağlı, zıplamak
+1880 planned planlı
+1881 clue ipucu
+1882 per her, tarafından, başına
+1883 direct direkt
+1884 crawl yavaş ilerleme
+1885 fellow adam
+1886 survivor hayatta kalan
+1887 grandma büyükanne
+1888 garden bahçe, bahçede çalışmak
+1889 treatment tedavi
+1890 sweat ter
+1891 equipment ekipman
+1892 curse lanet
+1893 particular belirli
+1894 bike bisiklet, bisiklet sürmek
+1895 delicious lezzetli
+1896 blah zırva, palavra
+1897 hammer çekiç
+1898 salt tuz
+1899 adventure macera
+1900 accomplish başarmak
+1901 pitch saha
+1902 license ruhsat, yetki vermek
+1903 thief hırsız
+1904 laid koydu
+1905 armor zırh
+1906 library kütüphane
+1907 easily kolayca
+1908 product ürün
+1909 wrap paketlemek
+1910 scout izci, keşif yapmak, gözcü
+1911 hostage rehin
+1912 breach ihlal, karşı gelme
+1913 recover kurtarmak, geri kazanmak, iyileşmek, kurtulmak
+1914 negative olumsuz
+1915 courage cesaret
+1916 temple tapınak
+1917 judgment yargı
+1918 effort çaba
+1919 golden altın
+1920 be on açık olmak, çalışmak
+1921 pour dökmek, akıtmak, dökülmek
+1922 trapped hapsolmuş
+1923 item madde
+1924 replace yer değiştirmek, yerine geçmek
+1925 pen dolma kalem
+1926 crystal kristal
+1927 ability yetenek
+1928 closet dolap
+1929 include dahil etmek
+1930 circumstance durum, koşul
+1931 actor aktör
+1932 underwear iç çamaşırı
+1933 indian hintli
+1934 nonsense saçmalık
+1935 downstair alt kat
+1936 uncomfortable rahatsız
+1937 permission izin
+1938 owner sahip
+1939 mall alışveriş merkezi
+1940 butter tereyağı
+1941 porn porno
+1942 joy sevinç
+1943 yard avlu
+1944 fully tamamen
+1945 priest rahip
+1946 forced zorunlu
+1947 fuckin lanet
+1948 blast büyük patlama, infilak etmek
+1949 sheet tabaka
+1950 bump çarpmak
+1951 gear vites
+1952 lake göl
+1953 female kadın
+1954 costume kostüm
+1955 factory fabrika
+1956 badly kötü bir şekilde
+1957 sink lavabo
+1958 bee bal arısı
+1959 swore yemin
+1960 silver gümüş
+1961 introduce tanıtmak, takdim etmek
+1962 pure saf
+1963 prevent önlemek
+1964 nuclear nükleer
+1965 section bölüm
+1966 meantime bu arada
+1967 friendly arkadaş canlısı
+1968 rare nadir
+1969 highly büyük ölçüde
+1970 irrelevant ilgisiz, alakasız, konu dışı, yersiz
+1971 toss atmak
+1972 melt erimek, eritmek
+1973 beast canavar, hayvan
+1974 alliance ittifak, antlaşma
+1975 selfish bencil
+1976 starve açlıktan öldürmek
+1977 aim amaç
+1978 raid baskın
+1979 parking otopark
+1980 protocol protokol
+1981 yay yuppi
+1982 potato patates
+1983 dick penis
+1984 swim yüzmek
+1985 sugar şeker
+1986 cookie kurabiye
+1987 happiness mutluluk
+1988 slaughter katliam
+1989 tv televizyon
+1990 get out of çıkmak
+1991 cooper şarapçı, fıçılamak
+1992 separate ayrı
+1993 tour tur
+1994 privacy gizlilik
+1995 image görüntü
+1996 mirror ayna
+1997 goodness iyilik
+1998 wipe silme
+1999 echo eko
+2000 delivery teslim
+2001 bleep biplemek
+2002 period dönem
+2003 waitress bayan garson
+2004 sudden ani
+2005 gain kazanç
+2006 jury jüri
+2007 vehicle araç
+2008 snake yılan
+2009 fallen düşmüş
+2010 slowly yavaşça
+2011 museum müze
+2012 audition işitme, ses sınavı yapmak
+2013 tale masal
+2014 infect bulaştırmak
+2015 coincidence tesadüf
+2016 drill matkap
+2017 citizen vatandaş
+2018 ceremony tören
+2019 brick tuğla
+2020 tent çadır
+2021 charity sadaka
+2022 outta -den dışarı
+2023 scratch çizik
+2024 spill dökmek
+2025 decent terbiyeli
+2026 below altında
+2027 rumor söylenti
+2028 joking şaka
+2029 argument tartışma, argüman
+2030 stripper striptizci
+2031 chancellor rektör
+2032 think about uzun uzun düşünmek, aklına gelmek
+2033 successful başarılı
+2034 palace saray
+2035 smoking sigara içmek
+2036 stomach mide
+2037 presence varlık
+2038 rabbit tavşan
+2039 vacation tatil
+2040 attend katılmak
+2041 champagne şampanya
+2042 wide geniş
+2043 aid yardım etmek
+2044 carefully dikkatlice
+2045 staff personel
+2046 alcohol alkol
+2047 represent temsil etmek
+2048 appointment randevu, atama, tayin
+2049 recent son, yakında olan
+2050 subway metro
+2051 monitor izlemek
+2052 chemical kimyasal
+2053 activity etkinlik, faaliyet
+2054 success başarı
+2055 reveal ortaya çıkartmak
+2056 raised kalkık
+2057 horn boynuz, toslamak
+2058 lecture ders
+2059 measure ölçmek, ölçü, tedbir, önlem
+2060 desert çöl
+2061 equal eşit
+2062 northern kuzey
+2063 inform bilgi vermek
+2064 garbage çöp
+2065 based merkezli, bazlı
+2066 sack çuval
+2067 halloween cadılar bayramı
+2068 massage masaj
+2069 ash kül
+2070 diamond elmas
+2071 footage kamera görüntüsü
+2072 canary kanarya
+2073 sorcerer büyücü
+2074 flat düz
+2075 warrant garanti
+2076 incredibly inanılmaz şekilde
+2077 royal asil
+2078 border sınır, sınır koymak
+2079 wizard sihirbaz
+2080 artist sanatçı
+2081 pink pembe
+2082 directly direkt olarak
+2083 wander gezmek
+2084 swallow yutmak
+2085 core çekirdek
+2086 blanket battaniye
+2087 patrol devriye gezmek
+2088 lion aslan
+2089 lame topal
+2090 alley geçit
+2091 incident olay
+2092 herd sürü
+2093 accuse suçlamak
+2094 dating buluşma, tanışma, flört etme
+2095 employee işçi, çalışan, personel
+2096 valentine sevgili
+2097 screen ekran
+2098 coach koç
+2099 normally normalde
+2100 sharp keskin
+2101 dirt kir
+2102 garage garaj
+2103 pattern desen
+2104 fighter savaşçı
+2105 currently şu anda
+2106 stake kazık
+2107 engine motor
+2108 beneath altında
+2109 know about haberi olmak, bilmek
+2110 come in içeri gel
+2111 unlike aksine
+2112 thin ince
+2113 midnight gece yarısı
+2114 tattoo dövme
+2115 quality kalite
+2116 satellite uydu
+2117 illegal yasadışı
+2118 steady sabit
+2119 barn ahır
+2120 breast meme
+2121 spider örümcek
+2122 tax vergi
+2123 champion şampiyon
+2124 disturb bozmak
+2125 capital başkent
+2126 manner tavır
+2127 regard saygı
+2128 purse para kesesi
+2129 dish tabak
+2130 yourselves kendiniz
+2131 helpful faydalı
+2132 hill tepe
+2133 neighborhood mahalle
+2134 go on devam et
+2135 benefit yarar, fayda
+2136 aint olumsuzluk takısı, aren't
+2137 habit alışkanlık
+2138 safer daha güvenli
+2139 asset varlık, mülk
+2140 counsel avukat
+2141 recommend önermek
+2142 skip atlamak
+2143 stink pis koku
+2144 comment yorum yap
+2145 nation ulus
+2146 maid hizmetçi
+2147 customer müşteri
+2148 greater daha büyük
+2149 attract çekmek, cezbetmek
+2150 grandfather büyük baba
+2151 despite rağmen
+2152 retreat geri çekilmek
+2153 valuable değerli, kıymetli
+2154 oil sıvı yağ
+2155 stretch uzatmak
+2156 rope i·p
+2157 bail kefalet, kefaletle serbest bırakmak
+2158 fever ateş
+2159 response tepki
+2160 testify ifade vermek
+2161 hung asılı
+2162 cow inek
+2163 generous cömert
+2164 canada kanada
+2165 bore delik, bunaltmak, sıkmak
+2166 maester üstat
+2167 reputation itibar
+2168 sophia sofya
+2169 opposite karşısında
+2170 shown gösterilen
+2171 motion hareket
+2172 realm diyar
+2173 district ilçe, bölge, semt
+2174 someplace bir yere
+2175 coast sahil
+2176 role rol
+2177 barrel namlu, varil, uçmak
+2178 sigh iç çekmek
+2179 pathetic acıklı
+2180 hive kovan
+2181 smarter daha akıllı
+2182 transport taşıma
+2183 lad delikanlı
+2184 rocket roket
+2185 spit tükürmek
+2186 hyah geh
+2187 worm solucan
+2188 physicist fizikçi
+2189 popular popüler
+2190 haunt uğrak
+2191 episode bölüm
+2192 random rasgele
+2193 slide kaymak
+2194 wolf kurt
+2195 toe ayak parmağı
+2196 magazine dergi
+2197 terror terör
+2198 sock çorap
+2199 missile füze
+2200 knight şövalye
+2201 astronaut astronot
+2202 peanut fıstık
+2203 worthy layık
+2204 resist direnmek
+2205 badge rozet
+2206 arrange düzenlemek
+2207 shine parlaklık
+2208 degree derece, aşama
+2209 basement bodrum
+2210 italy italya
+2211 quantum kuantum
+2212 click tık
+2213 reactor reaktör
+2214 magical büyülü
+2215 strategy strateji
+2216 pride gurur
+2217 explosion patlama
+2218 german almanca
+2219 noble asil
+2220 punishment ceza
+2221 express ifade etmek, açıklamak, anlatmak
+2222 possess sahip olmak
+2223 escort eskort, refakat etmek
+2224 nerve sinir
+2225 describe tanımlamak
+2226 chew çiğnemek
+2227 pump pompa, pompalamak, şişirmek
+2228 younger daha genç
+2229 useless faydasız
+2230 failure başarısızlık
+2231 mass kitle
+2232 squad tayfa
+2233 establish kurmak
+2234 reaction reaksiyon
+2235 gym jimnastik
+2236 elf cin
+2237 come with ile gel
+2238 writ ferman
+2239 cloud bulut
+2240 conference konferans
+2241 feast bayram, eğlendirmek
+2242 entrance giriş
+2243 setting ayar, ortam
+2244 cigarette sigara
+2245 campaign kampanya
+2246 caused neden oldu
+2247 approve onaylamak
+2248 frozen dondurulmuş
+2249 collection toplama, koleksiyon, tahsilat
+2250 object nesne, cisim
+2251 marshal mareşal
+2252 international uluslararası
+2253 leak sızıntı
+2254 fri cuma
+2255 document belge
+2256 ammo cephane
+2257 childhood çocukluk
+2258 tend eğilimli olmak
+2259 explanation açıklama
+2260 behalf biri adına
+2261 yup evet
+2262 jesus isa
+2263 style stil
+2264 dungeon zindan
+2265 sensitive hassas
+2266 geez tanrım
+2267 recruit acemi
+2268 reasonable makul
+2269 sweep süpürme
+2270 tied bağlı
+2271 glory şan
+2272 cable kablo
+2273 series dizi
+2274 scientific ilmi, bilimsel
+2275 fortune kader
+2276 labor emek
+2277 ashamed utanmış
+2278 grid kafes
+2279 spoil berbat etmek, bozmak
+2280 timing zamanlama
+2281 boob meme, aptallık etmek
+2282 perpetrator fail
+2283 multiple çoklu
+2284 therapy terapi
+2285 impression izlenim
+2286 anytime her ne zaman
+2287 consequence sonuç
+2288 lifetime ömür
+2289 hunter avcı
+2290 session oturum, toplantı, celse
+2291 communication iletişim
+2292 invitation davetiye
+2293 volunteer gönüllü
+2294 closest en yakın
+2295 pillow yastık
+2296 wallet cüzdan
+2297 lamp lamba
+2298 audience izleyici, seyirci
+2299 beep bip sesi, ses çıkarmak
+2300 mike mikrofon
+2301 particularly özellikle
+2302 angle açı, balık tutmak
+2303 hopefully inşallah
+2304 majesty majeste
+2305 theater tiyatro
+2306 intention niyet
+2307 appropriate uygun
+2308 witch cadı
+2309 organization organizasyon
+2310 whip kırbaç
+2311 century yüzyıl
+2312 india hindistan
+2313 pope papa
+2314 sauce sos
+2315 disaster afet
+2316 flesh et
+2317 halfway yarı yolda, ortada
+2318 uniform üniforma
+2319 smaller daha küçük
+2320 underground yeraltı
+2321 lick yalamak
+2322 honour onur
+2323 get on binmek
+2324 alpha alfa
+2325 director yönetmen
+2326 territory bölge
+2327 explosive patlayıcı
+2328 crow karga
+2329 struck vurmak, grevde
+2330 legend efsane
+2331 injury hasar
+2332 pity yazık
+2333 mug kupa
+2334 exhaust egzoz
+2335 algorithm algoritma
+2336 emotion duygu
+2337 bachelor bekarlığa veda
+2338 disagree aynı fikirde olmamak, anlaşamamak
+2339 deck güverte
+2340 fleet filo
+2341 associate ilişkilendirmek
+2342 visitor ziyaretçi
+2343 guarantee garanti
+2344 hint ipucu
+2345 arrangement düzenleme
+2346 silent sessiz
+2347 serial seri
+2348 fridge buzdolabı
+2349 perimeter çevre
+2350 confused şaşkın
+2351 helicopter helikopter
+2352 pipe boru
+2353 survival hayatta kalma
+2354 chuckle kıkırdama
+2355 loop döngü
+2356 treasure hazine
+2357 tuesday Salı
+2358 material malzeme
+2359 uh-huh hi-hı
+2360 oath yemin
+2361 cheap ucuz
+2362 liberty özgürlük
+2363 hilltop tepenin
+2364 wasting israf
+2365 farmer çiftçi
+2366 nephew erkek yeğen
+2367 patience sabır
+2368 lung akciğer
+2369 assassin suikastçı
+2370 skull kafatası
+2371 policy politika
+2372 rape tecavüz etmek, ırzına geçmek
+2373 involve içermek, kapsamak
+2374 rub ovmak
+2375 muscle kas
+2376 differently farklı olarak
+2377 jeez olamaz
+2378 suspicious şüpheli
+2379 highness yükseklik
+2380 shore kıyı
+2381 shooter atıcı
+2382 agency ajans
+2383 brotherhood kardeşlik
+2384 maintain korumak, sağlamak, sürdürmek
+2385 smooth düz, pürüzsüz
+2386 corrupt yozlaşmış
+2387 fold kat
+2388 weakness zayıflık
+2389 wore giydiği
+2390 glove eldiven
+2391 terrify dehşete düşürmek
+2392 ill hasta
+2393 balance denge, bakiye, dengede tutmak
+2394 log kütük
+2395 thrown atılmış
+2396 satisfy tatmin etmek
+2397 similar benzer
+2398 confession itiraf
+2399 foreign dış
+2400 review gözden geçirmek, değerlendirmek
+2401 clan klan
+2402 accent aksan
+2403 tast tadı
+2404 salad salata
+2405 nap şekerleme
+2406 bend viraj, bükülmek
+2407 papa baba
+2408 religion din
+2409 range aralık
+2410 chill ürpermek, üşümek
+2411 attractive çekici
+2412 identify tanımlamak, kimliğini saptamak
+2413 dust toz
+2414 scale ölçek
+2415 behave davranmak
+2416 shelter barınak
+2417 vest yelek
+2418 cruel zalim
+2419 admire beğenmek
+2420 branch şube, dallanmak
+2421 background arka plan
+2422 scotch iskoç, yaralamak, engellemek
+2423 adorable sevimli, şirin
+2424 legacy miras
+2425 flatter övmek, gururunu okşamak, göklere çıkarmak, pohpohlamak
+2426 flow akmak, akım, dökülmek
+2427 dinosaur dinozor
+2428 go with ile git
+2429 correction düzeltme
+2430 committed taahhüt
+2431 downtown şehir merkezi
+2432 minister bakan
+2433 crusade haçlı seferi
+2434 initiative girişim
+2435 shrimp karides
+2436 ninth dokuzuncu
+2437 element eleman
+2438 rot çürüme
+2439 frankly açıkçası
+2440 kidnapped kaçırılan
+2441 psycho psiko
+2442 anniversary yıldönümü
+2443 neat temiz
+2444 prick dikmek
+2445 plain sade
+2446 blown şişmiş, esmiş
+2447 breakup ayrılık
+2448 crop ekin
+2449 possession mülk
+2450 movement hareket
+2451 bid teklif etmek
+2452 wisdom bilgelik
+2453 therapist terapist
+2454 wand asa
+2455 occur meydana gelmek
+2456 determine belirlemek
+2457 deputy milletvekili
+2458 bible İncil
+2459 homework ev ödevi
+2460 refer başvurmak, anmak, işaret etmek
+2461 latest son
+2462 bra sütyen
+2463 sample örnek, numune
+2464 practically pratikte
+2465 undercover gizli
+2466 tone ton, ayarlamak, yumuşatmak
+2467 sworn yemin
+2468 afterward daha sonra
+2469 released yayınlandı
+2470 occasion fırsat, vesile
+2471 narrow dar
+2472 digital dijital
+2473 financial parasal
+2474 potion iksir
+2475 russia rusya
+2476 payment ödeme
+2477 miserable sefil
+2478 junior genç
+2479 sand kum
+2480 function fonksiyon
+2481 practic pratik
+2482 method yöntem
+2483 goat keçi
+2484 jar kavanoz, didişmek
+2485 fifth beşinci
+2486 confidence güven
+2487 colleague çalışma arkadaşı
+2488 brush fırça, fırçalamak
+2489 corporate kurumsal
+2490 knights şövalyeler
+2491 compromised sınırlı, tehlikeli
+2492 served hizmet
+2493 underneath altında
+2494 invisible görünmez
+2495 status durum
+2496 loan borç
+2497 invest yatırmak
+2498 bat yarasa
+2499 dwarf cüce
+2500 treason ihanet
+2501 sweater kazak
+2502 drawer çekmece
+2503 achieve elde etmek, başarmak
+2504 update güncelleme
+2505 commitment taahhüt
+2506 sub alt
+2507 confident kendine güvenen
+2508 prayer namaz
+2509 procedure prosedür
+2510 facing karşı
+2511 glasses gözlük
+2512 county ilçe, idari bölge
+2513 conflict fikir ayrılığı
+2514 spear mızrak
+2515 weigh tartmak
+2516 pile istif
+2517 burden yük, sırtına yüklemek
+2518 society toplum
+2519 makeup makyaj
+2520 reporter muhabir, haberci
+2521 italian italyan
+2522 tick kene
+2523 succeed başarılı olmak
+2524 attach eklemek, yapıştırmak
+2525 award ödül, ödüllendirmek
+2526 fetch getirmek
+2527 frame çerçeve
+2528 basic temel, esas, basit
+2529 compliment iltifat
+2530 fort kale
+2531 conduct yönetmek
+2532 doin yapıyorsun
+2533 drum davul
+2534 forth ileri
+2535 brief kısa
+2536 article makale
+2537 dessert tatlı
+2538 unusual olağandışı
+2539 theme tema
+2540 ditch atmak, kurtulmak
+2541 combat savaş
+2542 mister bay
+2543 chef şef
+2544 diaper bebek bezi
+2545 abuse istismar, kötüye kullanma
+2546 steam buhar
+2547 mouse fare
+2548 needle iğne
+2549 title başlık
+2550 painful acı verici
+2551 blonde sarışın
+2552 belly göbek
+2553 advise öğüt vermek
+2554 seed tohum
+2555 hostile hasım
+2556 misunderstand yanlış anlamak
+2557 quest aramak, araştırmak
+2558 committee kurul
+2559 generation nesil
+2560 citadel kale
+2561 collar yaka
+2562 bargain pazarlık
+2563 relative bağıl
+2564 register kayıt ol
+2565 relief rahatlama
+2566 grandson erkek torun
+2567 internal iç, dahili
+2568 instinct içgüdü
+2569 bait olta yemi, tuzak
+2570 stable kararlı
+2571 repair tamir etmek
+2572 delay gecikme
+2573 lean yağsız, eğilmek
+2574 specifically özellikle
+2575 raft sal
+2576 beside yanında
+2577 moral manevi
+2578 tap musluk
+2579 tiger kaplan
+2580 chemistry kimya
+2581 symptom semptom
+2582 officially resmi olarak
+2583 cabin kabin
+2584 gentleman beyefendi
+2585 soap sabun
+2586 division bölünme
+2587 dismiss reddet
+2588 gum sakız
+2589 fashion moda
+2590 pickle turşu
+2591 cock çük
+2592 thrill heyecan
+2593 phase evre
+2594 proposal öneri
+2595 chaos kaos
+2596 cap kapak
+2597 wrist bilek
+2598 humanity insanlık
+2599 senior kıdemli
+2600 guide kılavuz
+2601 speak to e konuşmak
+2602 get back to geri dön
+2603 boar yaban domuzu
+2604 attitude tutum, tavır
+2605 youre sen
+2606 ankle ayak bileği
+2607 peach şeftali
+2608 fry kızartma
+2609 duke dük
+2610 hooker fahişe
+2611 photograph fotoğraf, fotoğrafını çekmek
+2612 cartel kartel
+2613 reject reddetmek
+2614 intelligent akıllı
+2615 deposit depozito
+2616 shrink küçültmek
+2617 chop pirzola
+2618 tragedy trajedi
+2619 scan taramak
+2620 unique benzersiz
+2621 passage geçit
+2622 dial tuşlamak
+2623 remarkable dikkat çekici
+2624 stroke inme
+2625 tradition gelenek
+2626 smash parçalamak
+2627 humor mizah
+2628 electricity elektrik
+2629 priority öncelik
+2630 grief keder, üzüntü
+2631 competition yarışma
+2632 television televizyon
+2633 banana muz
+2634 massive büyük ve ağır
+2635 galaxy gökada
+2636 snack abur cubur
+2637 believe in inan
+2638 penny kuruş
+2639 instruction talimat
+2640 obsess saplantı haline gelmek
+2641 offend gücendirmek
+2642 symbol sembol
+2643 era çağ
+2644 fraud dolandırıcılık
+2645 custom gelenek görenek
+2646 heave fay hareketi
+2647 discussion tartışma
+2648 gee vay be
+2649 civil sivil
+2650 unfortunate şanssız
+2651 haircut saç kesimi
+2652 environment çevre, ortam
+2653 powder pudra
+2654 error hata
+2655 fantasy fantezi
+2656 corn mısır
+2657 pound vurmak, ingiliz lirası
+2658 beard sakal
+2659 horror korku
+2660 distraction oyalama eğlence dikkati başka yöne çekme
+2661 guitar gitar
+2662 boil kaynamak, haşlamak
+2663 myth efsane
+2664 sanctuary barınak
+2665 tournament turnuva
+2666 clown palyaço
+2667 do for bir şey için yapmak
+2668 re yeniden
+2669 go in içeri gir
+2670 have on sahip
+2671 expression ifade
+2672 bout gösteri, müsabaka
+2673 scrap hurda
+2674 ensure sağlamak
+2675 hawk şahin
+2676 ripped yırtık, sarhoş, hasarlı
+2677 properly uygun şekilde
+2678 impact etki, darbe
+2679 stabbed bıçaklandı
+2680 forgiveness af
+2681 puppy köpek yavrusu
+2682 honeymoon balayı, balayına çıkmak, cicim ayı
+2683 vulnerable savunmasız
+2684 operating işletme
+2685 towel havlu
+2686 lesbian lezbiyen
+2687 lap kucak
+2688 thumb başparmak
+2689 cutting kesme
+2690 flood sel
+2691 passenger yolcu
+2692 vengeance intikam
+2693 dropping damlatma
+2694 topic konu
+2695 signature imza
+2696 flirt flört
+2697 alarm alarm, uyarmak
+2698 prom balo
+2699 trunk gövde
+2700 merely sadece
+2701 highest en yüksek
+2702 password parola
+2703 precinct seçim bölgesi
+2704 druid büyücü
+2705 fingerprint parmak izi
+2706 holiness kutsallık
+2707 heroes kahramanlar
+2708 nasty pis
+2709 twist dönemeç
+2710 stall ahır
+2711 jam reçel
+2712 acquire elde etmek
+2713 stack yığın
+2714 settlement yerleşme
+2715 corpse ceset
+2716 statue heykel
+2717 gorgeous muhteşem
+2718 generator jeneratör
+2719 wreck harabe
+2720 oxygen oksijen
+2721 sickness hastalık
+2722 foolish aptalca
+2723 extend uzatmak
+2724 april Nisan
+2725 shipment gönderi
+2726 collapse çöküş
+2727 backward geriye, geri kalmış
+2728 vigilantes kanunsuzlar
+2729 website i·nternet sitesi
+2730 concert konser, anlaşmak
+2731 anonymous anonim
+2732 siege kuşatma
+2733 determin belirlemek
+2734 madness delilik
+2735 flew uçtu
+2736 fart osuruk
+2737 relevant uygun
+2738 oven fırın
+2739 rank rütbe
+2740 gunshot atış
+2741 shove kıpırdamak
+2742 unconscious bilinçsiz
+2743 flu grip
+2744 negotiate görüşmek
+2745 larger daha büyük
+2746 heck kahrolası
+2747 rib kaburga
+2748 critical kritik
+2749 orange portakal
+2750 coordinate koordinat
+2751 begun başladı
+2752 pumpkin kabak
+2753 butcher kasap
+2754 thirsty susuz
+2755 nickname takma ad
+2756 bake fırında pişirmek
+2757 temporary geçici
+2758 cough öksürük
+2759 happily mutlulukla
+2760 pad ped
+2761 shell kabuk
+2762 ease kolaylaştırmak
+2763 investment yatırım
+2764 deer geyik
+2765 bucket kova, kovayla taşımak
+2766 contest yarışma
+2767 avenge intikamını almak
+2768 convincing inandırıcı
+2769 rider binici
+2770 temperature sıcaklık
+2771 suggestion öneri
+2772 importantly önemli biçimde
+2773 balloon balon, şişmek
+2774 ministry bakanlık
+2775 down to aşağı
+2776 think of düşünmek, akıl etmek
+2777 react tepki
+2778 feature özellik
+2779 increase artırmak, artmak
+2780 jewish yahudi
+2781 helmet kask
+2782 height yükseklik
+2783 northmen kuzeyliler
+2784 accidentally yanlışlıkla
+2785 political siyasi
+2786 magician büyücü
+2787 furniture mobilya
+2788 squeeze suyunu sıkmak
+2789 rifle tüfek
+2790 surrounded çevrili
+2791 polite kibar, nazik
+2792 cowboy kovboy
+2793 scenario senaryo
+2794 outfit birlik
+2795 grownup yetişkin
+2796 eve havva
+2797 crisis kriz
+2798 rescued kurtarılan
+2799 worker çalışan
+2800 pace hız
+2801 comrade yoldaş
+2802 steak biftek
+2803 pole kutup
+2804 tracker izci
+2805 forbid yasaklamak
+2806 wit zekâ
+2807 rust pas
+2808 leather deri
+2809 candle mum
+2810 bounce sıçrama, zıplama
+2811 tricky hileli
+2812 upside üst taraf
+2813 addict bağımlı olmak, bağımlı
+2814 tub küvet
+2815 engagement nişan
+2816 taxi taksi
+2817 engaged nişanlı
+2818 no-one hiç kimse
+2819 tired yorgun
+2820 mesa yüksek ova
+2821 talkin konuşmasıyla
+2822 intense yoğun
+2823 mysterious gizemli
+2824 groom damat
+2825 minor küçük
+2826 union birlik
+2827 cunt kadın cinsel organı
+2828 courtesy nezaket
+2829 construction inşaat
+2830 individual bireysel
+2831 banging küfür
+2832 warehouse depo
+2833 sniper keskin nisanci
+2834 profile profil
+2835 produce üretmek
+2836 chess satranç
+2837 appeal başvurmak
+2838 dibs beştaş
+2839 slice dilim
+2840 warden bekçi
+2841 exposed maruz
+2842 destruction imha
+2843 virgin bakire
+2844 mistaken yanlış
+2845 nearby yakında
+2846 plug fiş
+2847 knot düğüm
+2848 eleven on bir
+2849 ruler cetvel
+2850 assist yardım etmek
+2851 flaw kusur
+2852 halt durdurmak
+2853 onion soğan
+2854 operative faal
+2855 oceanic okyanus
+2856 pastor papaz
+2857 british İngiliz
+2858 teenager genç
+2859 influence etki
+2860 passion tutku
+2861 engage bağlanmak, birbirine girmek
+2862 petty küçük
+2863 daily günlük
+2864 slightly hafif, az oranda, belli belirsiz
+2865 paperwork evrak
+2866 handcuff kelepçe
+2867 junk önemsiz
+2868 unknown bilinmeyen
+2869 ambulance ambulans
+2870 storage depolama
+2871 dug kazılmış
+2872 infection enfeksiyon
+2873 hallway koridor
+2874 inch inç
+2875 adopt benimsemek, evlat edinmek
+2876 witnesses tanıklar
+2877 handled ele
+2878 plastic plastik
+2879 widow dul
+2880 exercise egzersiz
+2881 constant sabit
+2882 architecture mimarlık
+2883 happier daha mutlu
+2884 shortly kısaca
+2885 secretary sekreter
+2886 counter sayaç
+2887 shed dökmek, akıtmak
+2888 permanent kalıcı, sürekli, daimi
+2889 paranoid paranoyak
+2890 belief inanç
+2891 active aktif
+2892 choke boğma
+2893 entertain eğlendirmek
+2894 expense gider
+2895 confront karşısına çıkmak
+2896 surface yüzey
+2897 pleasant hoş
+2898 cleaner temizleyici
+2899 resident oturan, sakin, yerleşmiş
+2900 choos çuf çuf tren
+2901 phrase ifade
+2902 average ortalama, ortalama bulma
+2903 permit izin
+2904 display görüntüle
+2905 decade onyıl
+2906 hockey hokey
+2907 depress düşürmek
+2908 software yazılım
+2909 database veritabanı
+2910 november kasım
+2911 performance verim
+2912 inappropriate uygunsuz
+2913 candidate aday
+2914 therefore bu nedenle
+2915 finest en güzel
+2916 bald kel
+2917 poop bok, kaka
+2918 lydia lidya
+2919 mighty güçlü
+2920 filthy pis
+2921 sheriff şerif
+2922 pause duraklat
+2923 slipped kaymış
+2924 injured yaralı
+2925 complex karmaşık
+2926 sadly ne yazık ki
+2927 kneel diz çökmek
+2928 compromise taviz, ödün
+2929 proven kanıtlanmış
+2930 industry sanayi
+2931 shave tıraş
+2932 burst patlama
+2933 label etiket
+2934 shy utangaç
+2935 resync resync komutu
+2936 thick kalın
+2937 urgent acil
+2938 cart araba ile taşımak
+2939 safely güvenli bir şekilde
+2940 define tanımlamak
+2941 bud tomurcuk, tomurcuklanmak
+2942 dot nokta
+2943 mutual karşılıklı
+2944 privilege ayrıcalık
+2945 troop asker
+2946 typical tipik
+2947 fairly oldukça
+2948 legendary efsanevi
+2949 farewell veda
+2950 reckon tahmin etmek, hesaplamak
+2951 remote uzak
+2952 chart grafik
+2953 journal dergi
+2954 drone erkek arı
+2955 consolidated birleştirilmiş
+2956 acid asit
+2957 gasp nefesi kesilmek
+2958 billy cop
+2959 ahem hım
+2960 deal with uğraşmak
+2961 facial yüz
+2962 nanny dadı
+2963 motherfucker çocuğu
+2964 basket sepet
+2965 poem şiir
+2966 expose maruz bırakmak
+2967 brand marka
+2968 bull boğa
+2969 highway karayolu
+2970 conscience vicdan, inanç
+2971 fist yumruk
+2972 favour iyilik
+2973 principal asıl
+2974 assignment atama
+2975 execution icra
+2976 cheek yanak, küstahlık etmek
+2977 bum otlakçı, dilenmek
+2978 tomato domates
+2979 zoo hayvanat bahçesi
+2980 pirate korsan
+2981 unfair haksız
+2982 combination kombinasyon
+2983 conclusion sonuç
+2984 stab bıçaklama
+2985 locker kilitli dolap
+2986 deeper daha derine
+2987 pregnancy gebelik
+2988 gravity yerçekimi
+2989 drain akıtmak
+2990 fur kürk
+2991 bacon domuz yağı, domuz pastırması
+2992 precisely tam
+2993 await beklemek
+2994 drank içti
+2995 content içerik, memnun etmek
+2996 lobster istakoz
+2997 liquid sıvı
+2998 purple mor
+2999 puppet kukla
+3000 distress sıkıntı
+3001 rainbow gökkuşağı
+3002 come out yayımlamak, ortaya çıkmak
+3003 elves elfler
+3004 shout bağırmak, haykırmak
+3005 be with ile olmak
+3006 malfunction arıza
+3007 newspaper gazete
+3008 employ kullanmak
+3009 reek buğulanmak
+3010 blond sarışın
+3011 profit kâr
+3012 lit yanan, sarhoş, edebiyat
+3013 assign atamak, devretmek
+3014 kit malzeme
+3015 stash saklamak
+3016 personality kişilik
+3017 haul çekmek
+3018 steer yönlendirmek
+3019 honesty dürüstlük
+3020 hilarious neşeli
+3021 estate arazi
+3022 batch yığın, grup
+3023 menu menü
+3024 corridor koridor
+3025 joint bağlantı
+3026 previous önceki
+3027 captured yakalanan
+3028 wagon yük vagonu
+3029 tube tüp
+3030 unlikely olası olmayan
+3031 development gelişme
+3032 conquer fethetmek
+3033 cube küp
+3034 plot arsa
+3035 meter metre
+3036 rail demiryolu
+3037 prior önceki
+3038 intent niyet
+3039 gotcha anladım
+3040 vanish tarihe karışmak
+3041 physician doktor
+3042 objection itiraz
+3043 unsullied tertemiz
+3044 sorcery büyücülük
+3045 consult danışmak
+3046 witcher efsunger, cadıeril
+3047 exception istisna
+3048 unhappy mutsuz
+3049 stain leke
+3050 spray sprey
+3051 vomit kusmak
+3052 stubborn inatçı
+3053 amongst arasında
+3054 badass sert çocuk, agresif tip
+3055 length uzunluk
+3056 loving seven
+3057 gentle nazik
+3058 structure yapı
+3059 mature olgun
+3060 cripple sakat, sakatlamak
+3061 operate işletmek
+3062 shared paylaşılan
+3063 surgeon cerrah
+3064 effective etkili
+3065 sheep koyun
+3066 leverage kaldıraç
+3067 winning kazanan
+3068 yield yol ver
+3069 republic cumhuriyet
+3070 anxiety endişe, kaygı
+3071 canadian kanadalı
+3072 gambling kumar
+3073 senator senatör
+3074 unity birlik
+3075 ski kayak
+3076 labyrinth labirent
+3077 booze alem yapmak, içki içmek
+3078 compound bileşik
+3079 rage öfke
+3080 wednesday çarşamba
+3081 quietly sessizce
+3082 extraordinary olağanüstü
+3083 assistance yardım
+3084 explode patlamak
+3085 colonel albay
+3086 shaft şaft
+3087 luckily iyi ki
+3088 footprint ayak izi
+3089 meanwhile o esnada
+3090 mexican meksikalı
+3091 conspiracy komplo
+3092 chapter bölüm
+3093 employer işveren
+3094 eternity sonsuzluk
+3095 aboard içinde ( geminin, uçağın içinde)
+3096 activate etkinleştirmek
+3097 nicely güzelce
+3098 gesture mimik
+3099 wed evlenmek
+3100 resume devam et
+3101 spoon kaşık
+3102 complaint şikâyet
+3103 settled yerleşik
+3104 holly çobanpüskülü
+3105 dummy sahte
+3106 inmate tutuklu
+3107 beef sığır eti
+3108 instance örnek, misal, olay, durum
+3109 struggle mücadele
+3110 principle prensip
+3111 appearance görünüm
+3112 trauma travma
+3113 infinite sonsuz
+3114 cuff manşet
+3115 superhero süper kahraman
+3116 cent sent
+3117 blackmail şantaj, şantaj yapmak
+3118 beloved sevgili
+3119 companion arkadaş
+3120 perspective perspektif
+3121 rightful haklı
+3122 waking uyanık
+3123 formula formül
+3124 leap sıçrama
+3125 routine rutin
+3126 self öz, kendi, kişilik
+3127 realise gerçekleştirmek, farkına varmak
+3128 debate tartışma
+3129 torn yırtık
+3130 net ağ
+3131 frog kurbağa
+3132 mistress metres
+3133 deeply derinden
+3134 rally ralli
+3135 flush floş
+3136 fee ücret
+3137 encounter karşılaşma
+3138 charged yüklü
+3139 lunatic çılgın
+3140 analysis analiz
+3141 tune melodi
+3142 communicate iletişim kurmak
+3143 tempt ayartmak
+3144 emperor imparator
+3145 recovery kurtarma
+3146 temper öfke
+3147 axe balta, baltalamak
+3148 korean koreli
+3149 quote alıntı
+3150 accurate doğru
+3151 thanksgiving şükran günü
+3152 jackass ahmak
+3153 spotted benekli
+3154 fulfill yerine getirmek
+3155 supportive destekleyici
+3156 announce anons etmek
+3157 dentist diş doktoru
+3158 aisle koridor
+3159 fiancee nişanlı
+3160 mustache bıyık
+3161 defendant sanık
+3162 waiter garson
+3163 application uygulama
+3164 expand genişletmek
+3165 celebration kutlama
+3166 capture ele geçirmek
+3167 bind bağlamak
+3168 electric elektrik
+3169 dull sikici
+3170 gray gri
+3171 slut sürtük
+3172 mole köstebek
+3173 greet selamlamak
+3174 cloak pelerin
+3175 global küresel
+3176 lamb kuzu
+3177 creep sürünme
+3178 outcome sonuç
+3179 starter başlatıcı
+3180 absence yokluk
+3181 unable aciz
+3182 coitus cinsel birleşme
+3183 reference referans
+3184 bond bağ
+3185 figure out çözmek
+3186 inevitable kaçınılmaz
+3187 simulation simülasyon
+3188 sharing paylaşım
+3189 lousy bitli
+3190 physically fiziksel olarak
+3191 bounty cömertlik
+3192 heel topuk
+3193 stalk sap
+3194 dragged sürüklenen
+3195 bolt sürgülemek, sürgü
+3196 kick one's asses hadlerini bildirmek
+3197 recipe yemek tarifi
+3198 whistle ıslık
+3199 kidney böbrek
+3200 electronic elektronik
+3201 shotgun pompalı tüfek
+3202 kiddo ufaklık
+3203 bored sıkılmış
+3204 medication ilaç
+3205 barbecue barbekü, mangal
+3206 homeless evsiz
+3207 magnet mıknatıs
+3208 reception resepsiyon
+3209 cinnamon tarçın
+3210 ottoman osmanlı
+3211 vodka votka
+3212 upper üst
+3213 entry giriş
+3214 grunt homurtu
+3215 mud çamur
+3216 ambush Pusu, pusuya düşürmek
+3217 headache baş ağrısı
+3218 abduct kaçırmak
+3219 suspend askıya almak
+3220 violation ihlal
+3221 politician politikacı
+3222 dynamite dinamit
+3223 culture kültür
+3224 europe avrupa
+3225 diary günlük
+3226 actress aktris, kadın oyuncu
+3227 signora sinyora
+3228 turks Türkler
+3229 wait for bekle
+3230 came back geri gel
+3231 eagle kartal
+3232 roman roma
+3233 battlefield harp meydanı
+3234 education eğitim
+3235 turner tornacı
+3236 whew vay
+3237 lightning şimşek
+3238 embrace kucaklamak
+3239 extract ayıkla
+3240 pawn piyon
+3241 allergic alerjik
+3242 surprising şaşırtıcı
+3243 obey itaat etmek
+3244 polish lehçe
+3245 concrete somut
+3246 noon öğle vakti
+3247 weirdo garip
+3248 particle parçacık
+3249 brag övünmek
+3250 fog sis
+3251 fork çatal, savurmak, çatallaşmak
+3252 misery sefalet
+3253 existence varoluş
+3254 tense gergin
+3255 install yüklemek
+3256 stamp pul
+3257 flare işaret fişeği
+3258 shovel kürek
+3259 immediate acil
+3260 alternative alternatif, seçenek
+3261 eighth sekizinci
+3262 mob çete
+3263 seize el koymak, zorla almak
+3264 forbidden yasak
+3265 inspire ilham vermek
+3266 media medya
+3267 wax ağda, mum, mumlamak
+3268 emotionally duygusal yönden
+3269 grey gri
+3270 sandpiper çulluk
+3271 get off inmek, ayrılmak, çıkmak
+3272 ma'am majesteleri
+3273 superior üstün
+3274 imagination hayal gücü
+3275 motive güdü
+3276 superman süpermen
+3277 suspicion şüphe
+3278 gossip dedikodu
+3279 vein damar
+3280 extreme aşırı
+3281 bare çıplak, çıkarmak
+3282 slam çarpmak
+3283 psychopath psikopat
+3284 illness hastalık
+3285 sore yara, ağrılı, kederli
+3286 overreact aşırı tepki
+3287 lottery piyango
+3288 reservation rezervasyon
+3289 upload yüklemek
+3290 iraq irak
+3291 species türler
+3292 october ekim
+3293 publish yayınla
+3294 celebrity şöhret
+3295 suitcase bavul
+3296 description açıklama
+3297 absolute mutlak, kesin
+3298 building bina, inşaat
+3299 significant önemli
+3300 fairy peri
+3301 knives bıçaklar
+3302 worthless değersiz
+3303 coma koma
+3304 dispatch sevk etmek
+3305 thy senin
+3306 factor faktör
+3307 cycle döngü
+3308 constantly sürekli
+3309 soviet sovyet
+3310 swell kabarma
+3311 fled kaçtı
+3312 jew yahudi
+3313 management yönetim
+3314 carpet halı
+3315 heroin eroin
+3316 involved ilgili
+3317 freighter şilep
+3318 excite heyecanlandırmak
+3319 mammoth mamut
+3320 pick up almak
+3321 brand-new yepyeni
+3322 casual gündelik
+3323 ambassador Büyükelçi
+3324 veil duvak
+3325 allegiance sadakat, biat
+3326 instruct öğretmek
+3327 taller daha uzun
+3328 delicate narin
+3329 vice mengene
+3330 honorable onurlu
+3331 glow korlaşmak, parlamak, parıltı
+3332 poster afiş
+3333 thee sana
+3334 skinny sıska
+3335 disposal bertaraf
+3336 brutal acımasız
+3337 gratitude şükran
+3338 hers onunki, onun
+3339 primary birincil
+3340 envy imrenme
+3341 risky riskli
+3342 grasp kavramak, anlamak, kapmak
+3343 stepped basamaklı
+3344 separated ayrıldı
+3345 cannon top
+3346 beaten dövülmüş
+3347 whiskey viski
+3348 upgrade yükselt
+3349 leadership liderlik
+3350 ai yapay zeka
+3351 felony suç
+3352 identical özdeş
+3353 granny nine
+3354 cursed lanetli
+3355 nightfall akşam vakti
+3356 picnic piknik, piknik yapmak
+3357 harvest hasat
+3358 southern güney
+3359 portal kapı
+3360 eliminate elemek
+3361 lobby lobi
+3362 prototype prototip
+3363 opponent karşı taraf
+3364 tooth diş
+3365 lemon limon
+3366 production üretim, üretme
+3367 apologise özür dilemek
+3368 remotely uzaktan
+3369 naive saf
+3370 testimony tanıklık
+3371 concept konsept, kavram, görüş
+3372 worship ibadet
+3373 intimate samimi
+3374 adjust ayarlamak
+3375 nothin hiçbirşey
+3376 altar adak taşı
+3377 unlock kilidini aç
+3378 delight zevk
+3379 sens borsa haberleri yayınlama servisi
+3380 poetry şiir
+3381 fucker sikici
+3382 terribly son derece
+3383 zombie zombi
+3384 racist ırkçı
+3385 napkin peçete
+3386 genetic genetik
+3387 technique teknik
+3388 frequency sıklık
+3389 versus e karşı
+3390 pledge rehin
+3391 somewhat biraz
+3392 dancer dansçı
+3393 sustain sürdürmek
+3394 pursue takip
+3395 dean dekan
+3396 poke dürtme
+3397 surviving hayatta kalmak
+3398 dumbass gerizekalı
+3399 transmission iletim
+3400 straw saman
+3401 interrogation sorgu
+3402 wiped sildi
+3403 ironic ironik
+3404 native yerli
+3405 spaghetti spagetti
+3406 butterfly kelebek
+3407 pharmaceutical eczacılığa ait
+3408 kindergarten çocuk yuvası
+3409 supervisor gözetmen
+3410 cutter kesici
+3411 clinic klinik
+3412 prank eşek şakası
+3413 hem in hem
+3414 come from dan geliyorum
+3415 bridesmaid nedime
+3416 romance romantik
+3417 initial ilk
+3418 burnt yanmış
+3419 rebuild yeniden inşa etmek
+3420 logic mantık
+3421 ration tayın
+3422 handy kullanışlı
+3423 strongest en güçlü
+3424 smartest zeki
+3425 hollow oyuk
+3426 deadly ölümcül
+3427 curiosity merak
+3428 pussy kedi, korkak, kadın cinsel organı
+3429 dramatic dramatik
+3430 arrogant kibirli
+3431 reign saltanat
+3432 restore onarmak
+3433 bracelet bilezik
+3434 instrument müzik aleti
+3435 approval onay
+3436 removed çıkarıldı
+3437 strap kayış
+3438 condom prezervatif
+3439 undertaking taahhüt
+3440 conceal gizlemek
+3441 guidance rehberlik
+3442 traditional geleneksel
+3443 kidnapping kaçırma
+3444 concentrate yoğunlaşmak
+3445 metaphor metafor, mecaz
+3446 naturally doğal olarak
+3447 election seçim
+3448 triple üçlü
+3449 dice zar
+3450 dagger hançer
+3451 shark köpekbalığı
+3452 improve iyileştirmek
+3453 humble mütevazı
+3454 importance önem
+3455 envelope zarf
+3456 solar güneş
+3457 definition tanım
+3458 thus böylece
+3459 diet diyet
+3460 lawn çim
+3461 comin geliyor
+3462 vigilance uyanıklık
+3463 thoughtful düşünceli
+3464 nest yuva
+3465 quicker hızlı
+3466 blank boş
+3467 cherry kiraz
+3468 carbon karbon
+3469 basketball basketbol
+3470 theft hırsızlık, çalma
+3471 investigating soruşturma
+3472 turn to çevirmek
+3473 australia avustralya
+3474 boot çizme
+3475 go for için gitmek
+3476 veronica veronika
+3477 marine deniz
+3478 congressman kongre üyesi
+3479 psych psikiyatri
+3480 lasagna lazanya
+3481 darn lanetlemek
+3482 alibi mazeret
+3483 dimension boyut
+3484 betrayal ihanet
+3485 meds ilaçlarını
+3486 scent koku
+3487 pulse nabız
+3488 ginger zencefil
+3489 fluid akışkan
+3490 parade geçit
+3491 popped attı
+3492 plead savunmak
+3493 backpack sırt çantası, pikniğe gitmek
+3494 observe gözlemek
+3495 mourn yas tutmak
+3496 sunshine gunes isigi
+3497 bold cesur
+3498 sole tek
+3499 kingslayer kral katili
+3500 combin kombinasyon
+3501 necklace kolye
+3502 basis temel
+3503 prostitute fahişe
+3504 western batı
+3505 counselor danışman
+3506 contempt aşağılama, küçümseme, hor görme
+3507 buyer alıcı
+3508 footstep basamak
+3509 deception aldatma
+3510 fortunately neyse ki
+3511 toothbrush diş fırçası
+3512 cereal tahıl
+3513 bagel simit
+3514 audit hesapları denetlemek
+3515 baggage Bagaj
+3516 convention kongre
+3517 sailor denizci
+3518 rival rakip
+3519 surprisingly şaşırtıcı biçimde
+3520 squirrel sincap
+3521 pursuit kovalama
+3522 repay ödemek
+3523 mobile seyyar
+3524 religious dini
+3525 airplane uçak
+3526 forgetting unutma
+3527 ceiling tavan
+3528 vicious ahlaksız
+3529 tragic trajik
+3530 retirement emeklilik
+3531 eternal sonsuz
+3532 divorced boşanmış
+3533 convenient uygun
+3534 swamp bataklık
+3535 truce ateşkes
+3536 spine omurga
+3537 cocktail kokteyl
+3538 coke kok
+3539 budget bütçe
+3540 junkie esrarkeş
+3541 smelly pis koku
+3542 slutty sürtük
+3543 bartender barmen
+3544 sophisticated sofistike
+3545 copycat taklitçi
+3546 rod kamış
+3547 slight hafif
+3548 harsh sert
+3549 bench bank
+3550 dealt ele
+3551 population nüfus
+3552 consciousness bilinç
+3553 biter ısırgan, ısıran kimse
+3554 chopper helikopter
+3555 grenade el bombası
+3556 rehearsal prova
+3557 slit yarık
+3558 gravy sos
+3559 rubber silgi
+3560 daylight gün ışığı
+3561 calendar takvim
+3562 lure yem
+3563 supper akşam yemeği
+3564 objective amaç
+3565 relay röle
+3566 scum pislik
+3567 sequence sıra
+3568 illusion yanılsama
+3569 translate tercüme
+3570 eyebrow kaş
+3571 throughout boyunca
+3572 accusation suçlama
+3573 sober ölçülü
+3574 vent havalandırmak
+3575 fascinating büyüleyici
+3576 chips cips
+3577 rely güvenmek
+3578 enterprise kuruluş
+3579 speaker konuşmacı
+3580 cargo kargo
+3581 regardless ne olursa olsun
+3582 reverse ters
+3583 conviction mahkumiyet
+3584 joss çin putu
+3585 minimum asgari
+3586 alike hem, benzeyen
+3587 overwhelm kaplamak
+3588 fame şöhret
+3589 protector koruyucu
+3590 hesitate tereddüt
+3591 stew güveç
+3592 deaf sağır
+3593 drawn çekilmiş
+3594 endless sonsuz
+3595 capacity kapasite
+3596 rash döküntü
+3597 ridge çıkıntı
+3598 acknowledge kabul etmek
+3599 justify haklı çıkarmak, savunmak, doğrulamak
+3600 exhibit sergi, sergilemek
+3601 cooler soğutucu
+3602 subtle ince
+3603 qualify nitelemek
+3604 ritual ayin
+3605 wrapped örtülü
+3606 prey av
+3607 niece yeğen
+3608 hacking hacklemek
+3609 recognition tanıma
+3610 riddle bilmece
+3611 civilization medeniyet
+3612 pact pakt
+3613 owl baykuş
+3614 liquor likör
+3615 wheelchair tekerlekli sandalye
+3616 billionaire milyarder
+3617 umbrella şemsiye
+3618 shut up kapa çeneni
+3619 live in içinde yaşamak
+3620 hector kabadayılık etmek, yüksekten atmak
+3621 psychic psişik
+3622 album albüm
+3623 mint nane
+3624 precaution önlem
+3625 practical pratik
+3626 inner iç
+3627 condemn kınamak
+3628 layer katman
+3629 oldest en eski
+3630 brake fren yapmak
+3631 yogurt yoğurt
+3632 wired telli
+3633 freed serbest bırakılmış
+3634 inventory envanter
+3635 troubled sorunlu
+3636 unarmed silâhsız
+3637 harmless zararsız
+3638 submit sunmak
+3639 weep ağlamak
+3640 balcony balkon
+3641 largest en büyük
+3642 select seçmek
+3643 orphan yetim
+3644 disarm etkisiz hale getirmek
+3645 dime on sent
+3646 ketchup ketçap
+3647 greek yunan
+3648 banish sürgün etmek
+3649 grape üzüm
+3650 singer şarkıcı
+3651 writer yazar
+3652 purge Temizle
+3653 mortal ölümlü
+3654 predict öngörmek
+3655 equally aynı derecede
+3656 coffin tabut
+3657 dive dalış
+3658 unexpected beklenmedik
+3659 electrical elektrik
+3660 commission komisyon
+3661 manifest belirgin
+3662 enormous muazzam
+3663 pigeon güvercin
+3664 ancestor ata
+3665 nearest en yakın
+3666 reconsider yeniden gözden geçirmek
+3667 equation denklem
+3668 donor verici
+3669 gene gen
+3670 crate sandık
+3671 bubble kabarcık
+3672 bribe rüşvet
+3673 gorilla goril, koruyucu, fedai
+3674 academy akademi
+3675 necessarily zorunlu olarak, mutlaka
+3676 anchor çapa, demir atmak, demirlemek
+3677 evacuate boşaltmak
+3678 gig iş
+3679 pale soluk
+3680 marker işaretleyici
+3681 shelf raf
+3682 december aralık
+3683 disrespect saygısızlık
+3684 pearl inci
+3685 trophy kupa
+3686 genie cin
+3687 fiance nişanlı
+3688 lockdown kilitlenme
+3689 cliff uçurum
+3690 smith demirci
+3691 flash ışık tutmak, parlama
+3692 ask for istemek
+3693 ma anne
+3694 bomber bombacı
+3695 placed yerleştirilmiş
+3696 hobby hobi
+3697 sweaty terli
+3698 mustard hardal
+3699 delete silmek
+3700 enforcement zorlama
+3701 coworker i·ş arkadaşı
+3702 handling kullanma
+3703 triumph zafer
+3704 eager istekli
+3705 cafeteria kafeterya
+3706 gently nazikçe
+3707 distant uzak
+3708 entertainment eğlence
+3709 owed borçlu
+3710 grocery bakkal
+3711 operator şebeke
+3712 sloppy yarım yamalak
+3713 retrieve geri almak
+3714 curtain perde
+3715 reminder hatırlatma
+3716 errand ayak işleri
+3717 ham domuz budu
+3718 personnel personel
+3719 indicate belirtmek
+3720 rig teçhizat
+3721 affection sevgi
+3722 arrival varış
+3723 villain cani
+3724 technical teknik
+3725 keeper kaleci
+3726 overcome aşmak
+3727 meaningless anlamsız
+3728 ferry feribot
+3729 visual görsel
+3730 taxes vergileri
+3731 refresh yenileme
+3732 certificate sertifika, belge vermek
+3733 sleepy uykulu
+3734 deed tapu
+3735 fond düşkün
+3736 sought aranan
+3737 auction açık artırma
+3738 fortress kale
+3739 intercept tutmak
+3740 vial küçük şişe
+3741 june haziran
+3742 heathen dinsiz
+3743 for your information bilginize
+3744 clone klon
+3745 reflect yansıtmak
+3746 guardian muhafız
+3747 erase silmek
+3748 amend değiştirmek
+3749 imply ima etmek
+3750 legitimate meşru
+3751 supreme yüce
+3752 download indir
+3753 toxic toksik
+3754 kidnap kaçırmak
+3755 ambition hırs
+3756 worn yıpranmış
+3757 soak emmek
+3758 sunset gün batımı
+3759 fortunate şanslı
+3760 trailer tanıtım videosu
+3761 vacuum vakum
+3762 clip kırpmak
+3763 broadcast yayın yapmak
+3764 manufacture üretmek
+3765 magnificent muhteşem
+3766 bitter acı
+3767 vampire vampir
+3768 carrot havuç
+3769 sacrificed kurban
+3770 playbook senaryo
+3771 enchantment büyü
+3772 investigator araştırmacı
+3773 peed işedi
+3774 whoop bağırtı
+3775 pajama pijama
+3776 draft taslak
+3777 observation gözlem
+3778 deploy dağıtmak
+3779 medal madalya
+3780 scoop kepçe
+3781 firewall güvenlik duvarı
+3782 advertise reklam yapmak
+3783 classify sınıflandırmak
+3784 kings krallar
+3785 politics siyaset
+3786 locket madalyon
+3787 bladder mesane, idrar torbası
+3788 scam aldatmaca
+3789 plague veba
+3790 january ocak
+3791 peaceful huzurlu
+3792 civilian sivil
+3793 convict hükümlü
+3794 grip kavrama
+3795 overnight bir gecede
+3796 sew dikmek
+3797 occurred oluştu
+3798 damaged hasarlı
+3799 paradise cennet
+3800 sticker etiket
+3801 exam sınav
+3802 rebel asi
+3803 treaty antlaşma
+3804 smack şaplak
+3805 wingman yancı
+3806 lookout gözleme, gözculuk yapma
+3807 motorcycle motosiklet
+3808 bedtime yatma zamanı
+3809 asian asyalı
+3810 silk ipek
+3811 homeland vatan
+3812 ink mürekkep
+3813 alongside yanında
+3814 retire emekli olmak
+3815 circuit devre
+3816 sixth altıncı
+3817 germany almanya
+3818 maintenance bakım
+3819 shiny parlak
+3820 torch meşale
+3821 acceptable kabul edilebilir
+3822 manual manuel
+3823 sarcasm iğneleme
+3824 anticipate beklemek, ummak
+3825 alternate alternatif, sıra ile yapmak
+3826 withdraw çekil
+3827 pork domuz eti
+3828 secretly gizlice
+3829 poet şair
+3830 rubbish döküntü, çöp, enkaz, moloz
+3831 partnership ortaklık
+3832 vegetable sebze
+3833 earthquake deprem
+3834 musical müzikal
+3835 promotion tanıtım
+3836 elbow dirsek
+3837 outer dış
+3838 unacceptable kabul edilemez
+3839 mankind insanlık
+3840 reduce azaltmak
+3841 foul faul
+3842 imprison hapsetmek
+3843 wrath gazap
+3844 vet veteriner
+3845 stitch dikiş
+3846 lightly hafifçe
+3847 douche şırınga
+3848 skank sürtük
+3849 thieves hırsızlar
+3850 glorious şanlı
+3851 vital hayati
+3852 advisor Danışman
+3853 straighten düzleştirmek
+3854 declare bildirmek
+3855 tomb mezar
+3856 shining parlıyor
+3857 pointless anlamsız
+3858 cardinal kardinal
+3859 rice pirinç
+3860 ant karınca
+3861 launder aklamak
+3862 barge duba, içeri dalmak
+3863 freckle çil
+3864 filed dosyalanmış
+3865 finance maliyei finans, finanse etmek
+3866 pay for ödemek
+3867 ex eski
+3868 according göre
+3869 solved çözülmüş
+3870 intern stajyer
+3871 payroll maaş bordrosu
+3872 antique antika
+3873 vatican vatikan
+3874 override geçersiz kılma
+3875 association dernek
+3876 backyard arka bahçe
+3877 info bilgi
+3878 parked park etmiş, beklemede
+3879 unstable kararsız
+3880 restrain dizginlemek
+3881 handful avuç
+3882 circus sirk
+3883 meetings toplantılar
+3884 forensic adli
+3885 psychiatrist psikiyatrist
+3886 stag erkeklere özel
+3887 messy dağınık
+3888 cartoon karikatür
+3889 radius yarıçap
+3890 dose doz
+3891 exposure maruz kalma, teşhir, poz
+3892 ruling yonetmek
+3893 grass çimen
+3894 jewelry takı
+3895 examine muayene etmek
+3896 jewel mücevher
+3897 mummy mumya
+3898 dine yemek
+3899 youth gençlik
+3900 protective koruyucu
+3901 presume varsaymak
+3902 column kolon, sütun
+3903 unpleasant hoş olmayan
+3904 heroic kahraman
+3905 foundation yapı temeli
+3906 aspect görünüş
+3907 hardest en zor
+3908 gladly memnuniyetle
+3909 keen keskin
+3910 bruise çürük, zedelemek
+3911 depart ayrılmak
+3912 announcement duyuru, ilan
+3913 laughter kahkaha
+3914 antidote panzehir
+3915 lease kiralama
+3916 anxious endişeli
+3917 described tarif edilen
+3918 pepper biber
+3919 accompany eşlik etmek
+3920 generally genellikle
+3921 toll geçiş ücreti
+3922 tit meme, meme başı
+3923 fifty elli
+3924 youngest en genç
+3925 independent bağımsız
+3926 shutting kapatma
+3927 elsewhere başka yerde
+3928 safest en güvenli
+3929 urge dürtü
+3930 helium helyum
+3931 lethal öldürücü
+3932 aggressive agresif, saldırgan
+3933 dove güvercin
+3934 hereby bu vesile ile
+3935 crib beşik
+3936 louder yüksek sesle
+3937 lend ödünç vermek
+3938 controlled kontrollü
+3939 discount indirim
+3940 janitor kapıcı
+3941 magnetic manyetik
+3942 passport pasaport
+3943 transferred transfer
+3944 look for aramak
+3945 turn out sonuçlanmak
+3946 came in içeri geldi
+3947 valley vadi
+3948 stay in kal
+3949 go down aşağı in
+3950 narcotic narkotik
+3951 councilman meclis üyesi
+3952 closure kapatma
+3953 experimental deneysel
+3954 rental kiralık
+3955 inject enjekte etmek
+3956 thankful müteşekkir
+3957 flank böğür
+3958 glue tutkal
+3959 tan bronzlaştırmak, dövmek
+3960 strain gerginlik
+3961 explore keşfetmek
+3962 maiden bakire, bekar
+3963 chin çene
+3964 cabinet kabine
+3965 annual yıllık
+3966 awhile bir süre
+3967 shade gölge
+3968 maniac manyak
+3969 provided sağlanan
+3970 thread konu
+3971 turtle kaplumbağa
+3972 prophecy kehanet
+3973 flee kaçmak
+3974 disabled engelli
+3975 verdict karar
+3976 piano piyano
+3977 hydrogen hidrojen
+3978 resolve çözmek, gidermek, çözümlemek
+3979 eastern doğu
+3980 rarely seyrek
+3981 journalist gazeteci
+3982 raw çiğ, ham
+3983 purchase satın alma
+3984 grease gres
+3985 sensor algılayıcı
+3986 sushi suşi
+3987 institution kurum
+3988 pronounce telaffuz
+3989 liver karaciğer
+3990 relation ilişki
+3991 thai tayland
+3992 investigate incelemek
+3993 immortal ölümsüz
+3994 theoretical teorik
+3995 sexually cinsel
+3996 imaginary hayali
+3997 exploit sömürmek
+3998 mercenary paralı
+3999 rack raf
+4000 depth derinlik
+4001 via üzerinden
+4002 pose poz
+4003 divide bölmek
+4004 flea pire
+4005 suite süit
+4006 revolution devrim
+4007 goddess tanrıça
+4008 brothel genelev
+4009 spark kıvılcım
+4010 consent razı olmak
+4011 payback geri ödeme
+4012 slim ince
+4013 celebrating kutluyor
+4014 cracker kraker
+4015 replacement değiştirme
+4016 filter filtre
+4017 reckless umursamaz
+4018 confusion karışıklık
+4019 sinner günahkâr
+4020 scheduled tarifeli
+4021 mentor akıl hocası
+4022 genuine hakiki
+4023 tray tepsi
+4024 graduate mezun olmak
+4025 behold dikkatle bakmak
+4026 thou sen
+4027 pancakes krep
+4028 administration yönetim
+4029 tactic taktik
+4030 gimme çocuk oyuncağı, yat benimle
+4031 presentation sunum
+4032 soil toprak
+4033 prep hazırlık
+4034 maze labirent
+4035 fundraiser bağış
+4036 autopsy otopsi
+4037 anomaly anomali
+4038 nickel nikel
+4039 refrigerator buzdolabı
+4040 naughty yaramaz
+4041 salary maaş
+4042 accountant muhasebeci
+4043 adoption benimseme, evlat edinme
+4044 live with birlikte yaşamak
+4045 rip huzur içinde yatsın
+4046 show up ortaya çıkmak
+4047 dreamland hayaller ülkesi
+4048 snap ani
+4049 kitty yavru kedi
+4050 look after ilgilenmek
+4051 bluff blöf yapmak
+4052 gallon galon
+4053 inspector müfettiş
+4054 investor yatırımcı
+4055 encrypt şifrelemek
+4056 fugitive firari
+4057 lighthouse fener
+4058 user kullanıcı
+4059 domestic yerli, iç, evcil
+4060 donation bağış
+4061 hike yürüyüş
+4062 bass bas
+4063 appetite iştah
+4064 olive zeytin
+4065 captive esir
+4066 creative yaratıcı
+4067 outsider yabancı
+4068 peel kabuk
+4069 rising yükselen
+4070 broad geniş
+4071 continued devam etti
+4072 jammed sıkışmış
+4073 tissue doku
+4074 praise övgü
+4075 spared kurtulmuş
+4076 squire bey
+4077 invasion istila
+4078 delusion kuruntu
+4079 twelve on iki
+4080 causing neden olan
+4081 disappointment hayal kırıklığı
+4082 cigar puro
+4083 rigged hileli
+4084 absurd saçma
+4085 origin menşei
+4086 tammy bere
+4087 efficient verimli
+4088 whatsoever hangi, herhangi bir
+4089 occupy işgal etmek
+4090 resistance direnç
+4091 limb uzuv
+4092 profession meslek
+4093 lazy tembel
+4094 sympathy sempati
+4095 substance madde, cisim
+4096 banker bankacı
+4097 premise öncül
+4098 protest protesto
+4099 boundary sınır
+4100 crab yengeç
+4101 creation oluşturma
+4102 weed ot
+4103 shatter çatlamak, çatlatmak
+4104 vessel gemi
+4105 crappy berbat
+4106 ransom fidye
+4107 additional ek
+4108 elegant zarif
+4109 scrape kazımak
+4110 rooftop çatı
+4111 stadium stadyum
+4112 longest en uzun
+4113 faint baygın
+4114 stepping adım
+4115 sum toplam
+4116 mushroom mantar
+4117 guild lonca
+4118 furious öfkeli
+4119 roast rosto
+4120 craft zanaat
+4121 unnecessary gereksiz
+4122 timeline zaman çizelgesi
+4123 satisfaction memnuniyet
+4124 tore yırttı
+4125 raising yükselen
+4126 container konteyner
+4127 leaf yaprak
+4128 intact dokunulmamış, el değmemiş
+4129 herb ot
+4130 submarine denizaltı
+4131 july temmuz
+4132 reinforcement güçlendirme
+4133 intervention müdahale
+4134 delightful hoş
+4135 beam ışın, kiriş
+4136 hardware donanım
+4137 cocaine kokain
+4138 luggage valiz
+4139 swan kuğu
+4140 classes sınıflar
+4141 move on devam et
+4142 get away kurtulmak!
+4143 be out söz konusu olmamak, bitmiş olmak, çıkmak
+4144 exciting heyecan verici
+4145 pleas yakarışlarıyla
+4146 sit down otur
+4147 get into içine girmek
+4148 come up ortaya çıkmak
+4149 faced yüzlü
+4150 prosecution ilerletme, sürdürme
+4151 briefcase evrak çantası
+4152 encryption şifreleme
+4153 unleash salıvermek, serbest bırakmak
+4154 teenage genç
+4155 pencil kalem
+4156 confidential gizli
+4157 strongly şiddetle
+4158 rehab rehabilitasyon
+4159 autograph imzalamak
+4160 geology jeoloji
+4161 vagina vajina
+4162 favourite favori
+4163 whereabouts nerelerde
+4164 permanently kalıcı olarak
+4165 mica mika, yalıtkan
+4166 sip yudum
+4167 buckle toka, ilişkilendirmek
+4168 blink göz kırpmak, yanıp sönmek
+4169 audio ses
+4170 dutch flemenkçe
+4171 break in sözünü kesmek
+4172 maximum maksimum
+4173 brass pirinç
+4174 tension gerginlik
+4175 scissor makasla kesmek
+4176 fragile kırılgan
+4177 kindness iyilik
+4178 agenda gündem
+4179 salmon somon
+4180 chatter gevezelik
+4181 wealth servet
+4182 breed doğurmak
+4183 innocence saflık, masumiyet
+4184 convert dönüştürmek
+4185 lust şehvet
+4186 hut kulübe
+4187 despair umutsuzluk
+4188 institute enstitü
+4189 construct kurmak
+4190 coconut hindistan cevizi
+4191 recognized tanınan
+4192 granddaughter kız torun
+4193 pickup almak
+4194 differ farklılık
+4195 willingly isteyerek
+4196 author yazar
+4197 corps kolordu
+4198 legally yasal olarak
+4199 descend inmek
+4200 africa Afrika
+4201 bowel bağırsak
+4202 slavery kölelik
+4203 maple akçaağaç
+4204 shampoo şampuan
+4205 interfere karışmak
+4206 intellectual entellektüel
+4207 breakthrough atılım
+4208 difficulty zorluk
+4209 nun rahibe
+4210 reserv rezerv
+4211 remorse vicdan azabı
+4212 tide gelgit
+4213 goose kaz
+4214 decay çürüme
+4215 orchid orkide
+4216 economy ekonomi
+4217 toxin toksin
+4218 spite nispet
+4219 growth büyüme
+4220 helpless çaresiz
+4221 restrict kısıtlamak
+4222 valid geçerli
+4223 horizon ufuk
+4224 outnumber fazla gelmek
+4225 closely yakından
+4226 spi spektropolarimetrik görüntüleme
+4227 swimming yüzme
+4228 bush çalı, orman, kırsal, kaplamak
+4229 riot isyan
+4230 rotten çürük
+4231 ladder merdiven
+4232 approximately yaklaşık olarak
+4233 destination hedef
+4234 correctly doğru şekilde
+4235 mechanic tamirci
+4236 consistent tutarlı, istikrarlı
+4237 shook salladı
+4238 denial ret
+4239 underestimate azımsamak
+4240 stir karıştırmak
+4241 hump kambur, kamburluk
+4242 grind eziyet
+4243 infirmary revir
+4244 courthouse adliye
+4245 interference girişim
+4246 insect böcek
+4247 artificial yapay
+4248 elephant fil
+4249 recognise tanımak
+4250 cricket kriket
+4251 detector detektör
+4252 courtroom mahkeme salonu
+4253 strawberry çilek
+4254 drugged uyuşturulmuş
+4255 casualties kayıplar
+4256 servers sunucular
+4257 give it to vermek
+4258 bob inip çıkmak
+4259 troll trol
+4260 draco drakon
+4261 lockup kilitlemek
+4262 tennis tenis
+4263 caller arayan
+4264 sociopath sosyopat
+4265 prescription reçete
+4266 clearance boşluk
+4267 brisket döş
+4268 chemist eczacı
+4269 environmental çevre
+4270 reader okuyucu
+4271 quarantine karantina
+4272 stroll gezinti
+4273 mere sırf
+4274 setup kurmak
+4275 in addition ek olarak
+4276 apple elma
+4277 cease durdurmak, vazgeçmek, son vermek
+4278 sorrow üzüntü
+4279 heavily ağır şekilde
+4280 graveyard mezarlık
+4281 thorough tam
+4282 framed iskeletli, çerçeveli
+4283 caution uyarmak, ihtar etmek, dikkat çekmek
+4284 policeman polis
+4285 crossbow yaylı tüfek
+4286 scatter saçmak, dağıtmak
+4287 hose hortum
+4288 smuggler kaçakçı
+4289 burner yakıcı
+4290 sundown gün batımı
+4291 chernobyl çernobil
+4292 greedy açgözlü
+4293 integrity bütünlük
+4294 tequila tekila
+4295 traveler gezgin
+4296 snore horlama
+4297 intervene araya girmek
+4298 analyze analiz etmek
+4299 lantern fener
+4300 vanilla vanilya
+4301 beverage içecek
+4302 shipping nakliye
+4303 negotiation müzakere
+4304 costum kostüm
+4305 judged yargılanır
+4306 priestess rahibe
+4307 hottest sıcak
+4308 seventh yedinci
+4309 undo geri alma
+4310 enlist kaydetmek
+4311 elect seçmek, seçilmiş
+4312 imminent eli kulağında, pek yakın
+4313 universal evrensel
+4314 pottery çömlekçilik
+4315 ribbon kurdele
+4316 addiction bağımlılık
+4317 lone yalnız
+4318 wage ücret
+4319 grill ızgara
+4320 radioactive radyoaktif
+4321 happiest en mutlu
+4322 wield kullanmak
+4323 mermaid deniz kızı
+4324 oops ayy
+4325 sewer lağım
+4326 dignity haysiyet, onur
+4327 gunfire top ateşi
+4328 vast muazzam
+4329 kin soydaş
+4330 doorstep eşik, basamak, kapı önü
+4331 telephone telefon
+4332 grain tahıl
+4333 minus eksi
+4334 sleeve kol
+4335 mattress yatak
+4336 confusing kafa karıştırıcı
+4337 intruder davetsiz misafir
+4338 lawsuit dava
+4339 cushion minder
+4340 psychological psikolojik
+4341 scanner tarayıcı
+4342 cranky huysuz
+4343 stripe şerit
+4344 electromagnetic elektromanyetik
+4345 navy donanma
+4346 organized örgütlü
+4347 ongoing devam eden
+4348 mexico meksika
+4349 dementors ruh emiciler
+4350 put on giymek
+4351 con aleyhte
+4352 doom kıyamet, felaket, dehşet
+4353 go away çekip gitmek, defolmak, terk etmek
+4354 tab çıkıntı
+4355 medium orta
+4356 sticky yapışkan
+4357 restroom tuvalet
+4358 receipt fiş
+4359 underwater su altı
+4360 cramp kramp
+4361 pageant geçit töreni
+4362 lipstick ruj
+4363 remedy çare
+4364 expertise uzmanlık
+4365 controlling kontrol
+4366 strict sıkı
+4367 struggling mücadele
+4368 sedative yatıştırıcı
+4369 southwest güneybatısında
+4370 reset sıfırla
+4371 improvement gelişme, iyileşme, düzelme, ilerleme
+4372 utterly tamamen
+4373 vouch kefil olmak
+4374 parole şartlı tahliye
+4375 agony acı
+4376 reverend saygıdeğer, muhterem
+4377 lurk gizlenmek
+4378 formal biçimsel
+4379 wooden ahşap
+4380 fitting uydurma
+4381 strictly kesinlikle
+4382 assassinate suikast yapmak
+4383 conclave kardinaller meclisi
+4384 marrow ilik
+4385 understandable anlaşılabilir
+4386 fifteen onbeş
+4387 executive yönetici
+4388 moan inilti
+4389 fiction kurgu
+4390 biological biyolojik
+4391 buffet büfe, yumruklama
+4392 boost artırmak
+4393 skate paten
+4394 telescope teleskop
+4395 reopen yeniden açmak
+4396 sparrow serçe
+4397 disobey uymamak
+4398 skeleton iskelet
+4399 spice baharat
+4400 occasionally bazen
+4401 pervert sapık
+4402 restraint kısıtlama
+4403 compass pusula
+4404 enlighten aydınlatmak
+4405 serpent yılan
+4406 transform dönüşüm
+4407 charter tüzük
+4408 freshman birinci sınıf öğrencisi
+4409 bravery cesaret
+4410 setback gerileme
+4411 divine ilahi
+4412 endanger tehlikeye atmak
+4413 rebellion isyan
+4414 elaborate ayrıntılı
+4415 allies itilaf devletleri
+4416 petition dilekçe
+4417 renounce vazgeçmek
+4418 little finger serçe parmağı
+4419 amateur amatör
+4420 bandage bandaj, bandajlamak
+4421 creek dere
+4422 comedy komedi
+4423 sadness üzüntü
+4424 occasional nadiren
+4425 fewer daha az
+4426 dreamt hayal
+4427 faithful sadık
+4428 transportation ulaşım
+4429 adapt uymak, adapte olmak
+4430 homemade ev yapımı
+4431 shaking sallama
+4432 lighter çakmak
+4433 being varlık
+4434 penalty ceza
+4435 hairy kıllı
+4436 catholic katolik
+4437 superpower süper güç
+4438 september eylül
+4439 tenant kiracı
+4440 shuttle servis aracı
+4441 input giriş
+4442 campus yerleşke
+4443 graduation mezuniyet
+4444 firework havai fişek
+4445 condo konut
+4446 matches maçlar
+4447 refused reddetti
+4448 alias sahte isim, takma isim
+4449 fall in içine düşmek
+4450 upstairs üst katta
+4451 thursday perşembe
+4452 bye-bye güle güle
+4453 goodman koca, baba, aile reisi
+4454 firearm ateşli silâh
+4455 collateral yan
+4456 commissioner komiser
+4457 platinum platin
+4458 scumbag pislik
+4459 chore zevksiz iş
+4460 globe küre
+4461 processor işlemci
+4462 morgue morg
+4463 clay kil
+4464 pacific pasifik
+4465 jazz caz
+4466 consultant danışman
+4467 naming adlandırma
+4468 redemption ödeme
+4469 rang çalmak
+4470 productive üretken
+4471 cooperate işbirliği yapmak
+4472 bunk ranza, kaçmak
+4473 rookie çaylak
+4474 stranded mahsur, çıkmaza düşmüş
+4475 mainly esasen
+4476 soy soya
+4477 photographer fotoğrafçı
+4478 faked sahte
+4479 evacuation tahliye
+4480 stray başıboş
+4481 freezer dondurucu
+4482 withdrawal para çekme
+4483 embarrassment sıkıntı
+4484 breeze esinti
+4485 sector sektör
+4486 massacre katliam
+4487 passionate tutkulu
+4488 assemble birleştirmek, monte etmek
+4489 rear arka
+4490 puke kusmak
+4491 artery ana yol, atardamar
+4492 intercourse ilişki
+4493 lid kapak
+4494 overrun aşmak
+4495 nazis naziler
+4496 instant anlık
+4497 essence öz
+4498 shorter daha kısa
+4499 builder kurucu, oluşturucu
+4500 rum tuhaf, rum, içki
+4501 exotic egzotik
+4502 persuade ikna etmek
+4503 suitable uygun
+4504 notion kavram
+4505 expectation beklenti
+4506 initiate başlatmak
+4507 defect kusur
+4508 chunk yığın
+4509 logical mantıklı
+4510 household ev halkı
+4511 iit oic the science, technology and innovation organization
+4512 skirt etek
+4513 outpost ileri karakol
+4514 weasel gelincik
+4515 guid kılavuz
+4516 hunger açlık, özlem, istek
+4517 whale balina
+4518 variable değişken
+4519 jealousy kıskançlık
+4520 torment azap
+4521 kite uçurtma
+4522 freely serbestçe
+4523 scrub ovmak
+4524 gallery galeri
+4525 acquaintance tanıdık
+4526 marathon maraton
+4527 compete yarışmak
+4528 ingredient bileşen
+4529 disguise gizlemek
+4530 sentiment duygusallık
+4531 prophet peygamber
+4532 ultimately en sonunda
+4533 grandkid torun
+4534 parasite parazit
+4535 tremendous muazzam
+4536 prosecutor savcı
+4537 disconnect bağlantıyı kesmek
+4538 preserve korumak
+4539 merchant tüccar
+4540 quarry taş ocağı
+4541 cozy rahat
+4542 shitty boktan
+4543 farther daha uzağa
+4544 hunch önsezi
+4545 duct kanal
+4546 northwest kuzey batı
+4547 porch sundurma
+4548 wolves kurtlar
+4549 inn han
+4550 awfully berbat bir şekilde
+4551 flock sürü
+4552 resolution çözüm
+4553 skipped atlanır
+4554 unto üzerine
+4555 broom süpürge
+4556 curfew sokağa çıkma yasağı
+4557 thirty otuz
+4558 contribute katkıda bulunmak
+4559 brat velet
+4560 hopeless umutsuz
+4561 slippery kaygan
+4562 doorbell kapı zili
+4563 classroom sınıf
+4564 ounce ons
+4565 mercury merkür
+4566 academic akademik
+4567 tumor tümör
+4568 nipple meme
+4569 documentary belgesel
+4570 mining madencilik
+4571 detention tutuklama
+4572 coffeehouse kahve evi
+4573 unemployed işsiz
+4574 tourist turist
+4575 destined kaderinde
+4576 tommy ingiliz askeri
+4577 get over atlatmak
+4578 hired kiralanmış
+4579 headquarter merkezi
+4580 pot tencere
+4581 sandy kumlu
+4582 mage sihirbaz
+4583 put in koymak
+4584 cured kürlenmiş
+4585 antenna anten
+4586 bakery fırın
+4587 suburb kenar mahalle
+4588 doughnut tatlı çörek
+4589 limo limuzin
+4590 typically genellikle
+4591 mainframe anabilgisayar
+4592 morse mors
+4593 bonding yapıştırma, tutturma
+4594 improv doğaçlama
+4595 poll anket
+4596 feather kuş tüyü
+4597 grudge kin
+4598 forehead alın
+4599 jaw çene
+4600 mode kip
+4601 severe şiddetli
+4602 context bağlam
+4603 shepherd çoban
+4604 spinning döndürme
+4605 recommendation öneri
+4606 virtual sanal
+4607 pony midilli
+4608 fuse sigorta
+4609 cocoa kakao
+4610 untie çözmek
+4611 satan şeytan
+4612 heartbeat kalp atışı
+4613 holed delikli
+4614 lever kaldıraç
+4615 easiest en kolay
+4616 rational akılcı
+4617 wealthy zengin, varlıklı
+4618 redhead kızıl saçlı
+4619 resent yeniden gönderilen
+4620 bureau büro, acente
+4621 immune bağışık
+4622 sincere samimi
+4623 gin cin
+4624 coolest havalı
+4625 souvenir hatıra
+4626 appoint atamak
+4627 allergy alerji
+4628 fealty sadakat
+4629 volume ses
+4630 fatal ölümcül
+4631 ruthless acımasız
+4632 seer falcı
+4633 renew yenile
+4634 orcs orklar
+4635 ranch çiftlik
+4636 orbit yörünge
+4637 lump topak, yumru
+4638 compassion merhamet
+4639 obsession takıntı
+4640 voyage yolculuk
+4641 underestimated hafife
+4642 manipulate idare
+4643 bathtub küvet
+4644 hog domuz
+4645 shush sus
+4646 proposition önerme
+4647 disappearance yok olma
+4648 wreckage enkaz
+4649 urine idrar
+4650 various çeşitli
+4651 fabric kumaş
+4652 whatnot ıvır zıvır
+4653 salvation kurtulma, kurtuluş
+4654 dread dehşet
+4655 messenger haberci, elçi
+4656 hazard tehlike
+4657 transaction işlem
+4658 continent kıta
+4659 gown elbise
+4660 archive arşiv
+4661 surrounding çevreleyen
+4662 mild hafif
+4663 dunk daldırmak
+4664 pud puding
+4665 roam dolaşmak
+4666 slaver köleci
+4667 simpler daha basit
+4668 cooperation işbirliği
+4669 gamble kumar
+4670 oldfashioned eski moda
+4671 democracy demokrasi
+4672 dwell yaşamak
+4673 olympic olimpiyat, olimpik
+4674 sever ayırmak
+4675 landmark işaret
+4676 reflection yansıma
+4677 saddle sele
+4678 certainty kesinlik
+4679 blacksmith demirci
+4680 flavor lezzet, lezzet kazmak, tat duyusu
+4681 steward kamarot
+4682 psychology psikoloji
+4683 merit hak
+4684 outdoor dış mekan
+4685 ive ben sahibim
+4686 uterus rahim
+4687 wheat buğday
+4688 stumble yanılmak
+4689 filing dosyalama
+4690 needy muhtaç
+4691 distribution dağıtım
+4692 classy şık
+4693 mechanism mekanizma
+4694 diner lokanta
+4695 marijuana esrar
+4696 kidnapper çocuk hırsızı
+4697 businessman işadamı
+4698 wrestler güreşçi
+4699 allegation iddia
+4700 goblin cin
+4701 warlock falcı
+4702 have in sahip
+4703 look in arama konumu
+4704 come down inmek, düşmek, gözden düşmek
+4705 asteroid asteroit
+4706 form oluşturmak, şekillendirmek, form
+4707 so-called lafta, sözde
+4708 dedicated adanmış
+4709 inches inç
+4710 airlock hava kilidi
+4711 immunity dokunulmazlık
+4712 detonate patlatmak
+4713 infinity sonsuzluk
+4714 fabulous harika
+4715 amaze hayrete düşürmek, şaşırmak
+4716 uncover ortaya çıkarmak
+4717 wuss korkak
+4718 dorm yurt
+4719 unpack açmak
+4720 weekly haftalık
+4721 authorize yetki vermek
+4722 neutrino nötrino
+4723 pimp pezevenk
+4724 dryer kurutma makinesi
+4725 slot yarık
+4726 mammal memeli
+4727 hippie hippi
+4728 endure katlanmak
+4729 kindly nazikçe
+4730 concussion sarsıntı
+4731 novel roman
+4732 raccoon rakun
+4733 goods mal, yük
+4734 delusional sanrısal
+4735 bash sertçe vurmak
+4736 soccer futbol
+4737 industrial sanayi
+4738 cord kordon
+4739 scheme düzen
+4740 fare ücret
+4741 babysitting Bebek Bakımı
+4742 france fransa
+4743 sane aklı başında
+4744 psst hişt
+4745 rug kilim
+4746 predictable tahmin edilebilir
+4747 forty kırk
+4748 peak zirve
+4749 discipline disiplin
+4750 regain yeniden kazanmak
+4751 ambitious hırslı
+4752 portion kısım
+4753 hence bundan dolayı
+4754 oar kürek
+4755 secondly ikinci olarak
+4756 pupil öğrenci
+4757 involvement ilgi, bulaşma, bağlılık
+4758 vain nafile
+4759 tasty lezzetli
+4760 seduce baştan çıkartmak
+4761 painter ressam
+4762 liability yükümlülük
+4763 inspiration ilham
+4764 despise tiksinmek
+4765 countless sayısız
+4766 hideous iğrenç
+4767 defensive savunma
+4768 expedition sefer
+4769 fountain çeşme
+4770 wig peruk
+4771 contrary aksi
+4772 disorder düzensizlik
+4773 crossword bulmaca
+4774 essential gerekli
+4775 apparent belli
+4776 venture girişim
+4777 snitch fitnelemek
+4778 stairwell merdiven boşluğu
+4779 estimate tahmin
+4780 chairman başkan
+4781 aka diğer adıyla
+4782 valiant yiğit
+4783 penthouse çatı katı
+4784 sang şarkı söyledi
+4785 exclusive özel
+4786 invade saldırmak
+4787 wail feryat
+4788 tribe kabile
+4789 midst ortasında
+4790 mechanical mekanik, otomatik, makineli
+4791 behead kafasını kesmek
+4792 copper bakır
+4793 scavenge temizlemek
+4794 onetime bir kere
+4795 froze dondu
+4796 pointy sivri
+4797 comb tarak
+4798 babysit bakıcılık, çocuk bakmak
+4799 dairy mandıra
+4800 hangover akşamdan kalma
+4801 dent göçük
+4802 turd bok
+4803 unload boşaltmak
+4804 longterm uzun süreli
+4805 dental diş
+4806 demonstrate göstermek, göz önüne sermek
+4807 chopped kıyılmış
+4808 successfully başarılı olarak
+4809 caring sempatik
+4810 fastest en hızlı
+4811 unfold açılmak
+4812 wicked kötü
+4813 outbreak salgın
+4814 syrup şurup
+4815 pantie kadın külodu
+4816 dam baraj
+4817 confidentiality gizlilik
+4818 obtain elde etmek
+4819 biology biyoloji
+4820 modify değiştirmek
+4821 revenue gelir
+4822 tailor terzi
+4823 cipher şifre
+4824 probability olasılık
+4825 playground oyun alanı
+4826 tons ton
+4827 vaccine aşı
+4828 come over buraya gel
+4829 bobby aynasız
+4830 beacon fener
+4831 apprehend kavramak
+4832 papal papaya ait
+4833 ward koğuş
+4834 elder yaşça büyük
+4835 ring in içeri girmek
+4836 pen up tükenmek
+4837 you-know-who kim olduğunu biliyorsun
+4838 doppelganger tıpkısının aynısı
+4839 dated tarihli
+4840 argentina Arjantin
+4841 antibiotic antibiyotik
+4842 scoff alay
+4843 invention icat
+4844 semester dönem
+4845 hurricane kasırga
+4846 deadline son tarih
+4847 upstate şehir dışı
+4848 wireless kablosuz
+4849 alcoholic alkollü, alkolik
+4850 contraction kasılma
+4851 noodle şehriye, erişte
+4852 hemorrhoid basur
+4853 madame madam
+4854 nightclub gece kulübü
+4855 japan japonya
+4856 pantry kiler
+4857 korea kore
+4858 fuss yaygara
+4859 thankyou teşekkür ederim
+4860 donkey eşek
+4861 extent derece
+4862 compartment bölme
+4863 curve eğri
+4864 achievement başarı
+4865 offensive saldırgan
+4866 originally aslında
+4867 discreet sağduyulu
+4868 operational işletme
+4869 cans konserve kutuları
+4870 bitten ısırılan
+4871 confuse şaşırtmak
+4872 instructor eğitmen
+4873 hospitality misafirperverlik
+4874 inclined eğimli
+4875 luxury lüks
+4876 refugee mülteci
+4877 georgia gürcistan
+4878 attaboy aferin sana
+4879 sucker enayi, emici
+4880 pond gölet
+4881 litter çöp
+4882 filth pislik
+4883 trader tüccar
+4884 esteem saygı
+4885 sausage sosis
+4886 redeem tazmin etmek
+4887 overthrow devirmek
+4888 vocal vokal
+4889 unite birleştirmek
+4890 inquiry soruşturma
+4891 grieve üzülmek
+4892 tender hassas
+4893 contribution katkı
+4894 nicest en güzel
+4895 oscar oskar
+4896 spicy baharatlı
+4897 evolution evrim
+4898 fasten bağlamak
+4899 unfinished bitmemiş
+4900 shallow sığ
+4901 obligation yükümlülük
+4902 assassination suikast
+4903 ascension göğe yükselme
+4904 crane vinç
+4905 tolerate tahammül
+4906 isle ada
+4907 carriage taşıma
+4908 applause alkış
+4909 treachery ihanet
+4910 corruption bozulma
+4911 demonstration gösteri
+4912 preach vaaz vermek, tavsiye etmek
+4913 lace dantel
+4914 altogether hep beraber
+4915 inflict vermek
+4916 verse ayet
+4917 outstanding göze çarpan, seçkin
+4918 caesar sezar
+4919 ape taklit etmek, maymun
+4920 reserve rezerv
+4921 irony hiciv, alay, ince alay
+4922 waist bel
+4923 parallel paralel
+4924 plow pulluk
+4925 grandchildren torunlar
+4926 neutral nötr
+4927 essentially esasen
+4928 thermal termal
+4929 fellowship dernek
+4930 projection projeksiyon
+4931 lizard kertenkele
+4932 sept eylül
+4933 eldest en yaşlı
+4934 peril tehlike
+4935 crave yalvarmak
+4936 drunken sarhoş
+4937 sufficient yeterli
+4938 arse kıç, anüs
+4939 whichever hangisi
+4940 merciful merhametli
+4941 amuse eğlendirmek
+4942 stitches dikişler
+4943 settling yerleşme
+4944 generate üretmek
+4945 hearth aile ocağı
+4946 sofa kanepe
+4947 voicemail sesli mesaj
+4948 firepower ateş gücü
+4949 tripped takılmak
+4950 penguin penguen
+4951 guaranteed garantili
+4952 orientation oryantasyon
+4953 cyber siber
+4954 blossom çiçek açmak
+4955 volcano volkan
+4956 motivation motivasyon
+4957 cheerleader ponpon kız
+4958 yacht yat
+4959 specialist uzman
+4960 opium afyon
+4961 airline havayolu
+4962 allowance izin, ödenek, harçlık
+4963 summoned çağırıldı
+4964 enchanted büyülü
+4965 wristband bileklik
+4966 replaced değiştirilir
+4967 refusing reddeden
+4968 stay away uzak dur
+4969 sleep with uyumak
+4970 uh-oh a aa
+4971 go up yukarı git
+4972 go through geçmek, incelemek
+4973 get about yayılmak
+4974 buzz vızıltı, vızıldamak, telefon etmek
+4975 gay eşcinsel
+4976 get rid of kurtulmak
+4977 pension emeklilik
+4978 reapers orak
+4979 violated ihlal
+4980 polygraph yalan makinesi
+4981 sunflower ayçiçeği
+4982 digit hane
+4983 catalog katalog
+4984 potentially potansiyel
+4985 bloke herif
+4986 scholarship burs
+4987 swiss i·sviçre
+4988 crumb kırıntı
+4989 nude çıplak
+4990 wardrobe giysi dolabı
+4991 quirky ilginç
+4992 psychiatric psikiyatrik
+4993 virginity bakirelik
+4994 visa vize
+4995 roller rulman
+4996 coal kömür
+4997 mill değirmen
+4998 rapist tecavüzcü, çapulcu
+4999 shootout atışları
+5000 torturing işkence
